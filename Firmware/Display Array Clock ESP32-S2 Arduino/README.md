@@ -7,6 +7,6 @@ In order to configure the Arduino IDE for the ESP32-S2 it is necessary to add th
 
 ### Espressif Repository for ESP32-S2
 
-´´´c++
+```c++
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
-´´´
+```
