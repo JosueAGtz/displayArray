@@ -16,7 +16,7 @@ These are some themes that I have created to be use with the display array board
 ![displayArrayPixie](https://savageelectronics.com/wp-content/uploads/2021/07/PixiePro.png)
 ### 7 Segments
 ![displayArray7Seg](https://savageelectronics.com/wp-content/uploads/2021/07/7Segment.png)
-### Lixie Blue
+### Lixie Cyan
 ![displayArrayLixieBlue](https://savageelectronics.com/wp-content/uploads/2021/07/LixieBlue.png)
 ### Lixie Purple
 ![displayArrayLixiePurple](https://savageelectronics.com/wp-content/uploads/2021/07/LixiePurple.png)
