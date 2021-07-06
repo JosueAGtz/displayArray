@@ -7,7 +7,7 @@ The display array has a back connector that allows the comunication with the dis
 
 ![displayArrayPinout](https://savageelectronics.com/wp-content/uploads/2021/07/DisplayArray_Pinout.png)
 
-# Display Array Clock Themes
+# Display Array Clock Themes ( MY TOP 5 )
 
 ![displayArrayBINA](https://savageelectronics.com/wp-content/uploads/2021/07/BINAView.png)
 
@@ -19,4 +19,3 @@ The display array has a back connector that allows the comunication with the dis
 
 ![displayArrayNixie](https://savageelectronics.com/wp-content/uploads/2021/07/NixieTube.png)
 
-![displayArrayPixie](https://savageelectronics.com/wp-content/uploads/2021/07/PixiePro.png)
