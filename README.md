@@ -19,3 +19,8 @@ The display array has a back connector that allows the comunication with the dis
 
 ![displayArrayNixie](https://savageelectronics.com/wp-content/uploads/2021/07/NixieTube.png)
 
+# Display Array Clock 
+
+![displayArrayClock](https://savageelectronics.com/wp-content/uploads/2021/06/IMG_7267.jpg)
+
+
