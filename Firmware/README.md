@@ -1,6 +1,6 @@
 # Display Array Clock Firmware
 
-### Visual Studio Code - Raspberry Pi Pico
+## Visual Studio Code - Raspberry Pi Pico
 
 For this clock project, I’m using a Raspberry Pi Pico, but the code should be easily ported to any other microcontroller, as the functionality of the clock itself is basic. The Raspberry Pi Pico has a built-in RTC so results easier to implement the clock. Other Microcontrollers with Wifi Capabilities could also obtain the clock data from a web service instead of an intrnal RTC making the board capabilities more atractive as weather or many other kind of IOT notificaions.
 
@@ -64,7 +64,7 @@ typedef struct alarm_pool_entry {
     void *user_data;
 } alarm_pool_entry_t;
 ```
-### Visual Studio Code - Esspresif Plugin ESP32-S2
+## Visual Studio Code - Esspresif Plugin ESP32-S2
 
 The latest firmware includes the addition of 4 timezones with different clock themes with the corresponding country Flag, the firmware is based on the SNTP example provided by Expressif which allows you to configure and set your Wifi’s SSID and password for automatic clock time according to the chosen timezones.
 
