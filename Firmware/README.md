@@ -78,6 +78,9 @@ After installing and opening the example we just need to configure the example f
 
 And now is as easy as adding the SPI configurations for the displays.
 
+![displayArraySaola](https://savageelectronics.com/wp-content/uploads/2021/07/ESP32_SCH.png)
+
+### SPI and Buttons < main.h >
 ```c++
 
 #define PIN_NUM_RST     33
