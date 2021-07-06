@@ -6,3 +6,17 @@ The display array is a board that sets 6 ST7735 display with a resolution of 80x
 The display array has a back connector that allows the comunication with the displays and buttons. The pinout of the connector is the following:
 
 ![displayArrayPinout](https://savageelectronics.com/wp-content/uploads/2021/07/DisplayArray_Pinout.png)
+
+# Display Array Clock Themes
+
+![displayArrayBINA](https://savageelectronics.com/wp-content/uploads/2021/07/BINAView.png)
+
+![displayArrayFlip](https://savageelectronics.com/wp-content/uploads/2021/07/FlipFlap.png)
+
+![displayArray14Seg](https://savageelectronics.com/wp-content/uploads/2021/07/14Segment.png)
+
+![displayArrayVFD](https://savageelectronics.com/wp-content/uploads/2021/07/VFD.png)
+
+![displayArrayNixie](https://savageelectronics.com/wp-content/uploads/2021/07/NixieTube.png)
+
+![displayArrayPixie](https://savageelectronics.com/wp-content/uploads/2021/07/PixiePro.png)
