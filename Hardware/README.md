@@ -12,3 +12,11 @@ With this files you should be able to modify the board as need, also you can fab
 ![displayArrayFront](https://savageelectronics.com/wp-content/uploads/2021/06/IMG_7236.jpg)
 ![displayArrayBack](https://savageelectronics.com/wp-content/uploads/2021/06/IMG_7241.jpg)
 
+# Display Array Controller Hardware
+
+### Printed Circuit Board
+![displayArrayCtrlPCB](https://savageelectronics.com/wp-content/uploads/2021/06/ControllerPCB-1024x531.png)
+
+### Display Array Controller Board
+![displayArrayCtrl](https://savageelectronics.com/wp-content/uploads/2021/06/IMG_7244.jpg)
+![displayArrayCtrlMount](https://savageelectronics.com/wp-content/uploads/2021/06/IMG_7262.jpg)
