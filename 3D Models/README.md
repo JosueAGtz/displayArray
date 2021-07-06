@@ -10,7 +10,7 @@
 ![displayArray3DUSB](https://savageelectronics.com/wp-content/uploads/2021/07/ClockUSB-.png)
 
 ### Clock Case
-![displayArray3D](https://savageelectronics.com/wp-content/uploads/2021/05/displayArray-Clock-1024x576.png)
+![displayArray3D](https://savageelectronics.com/wp-content/uploads/2021/07/displayArray-Case6-.png)
 
 ![displayArray3D](https://savageelectronics.com/wp-content/uploads/2021/05/displayArray-Clock-1024x576.png)
 
