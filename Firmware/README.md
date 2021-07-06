@@ -6,7 +6,7 @@ For this clock project, I’m using a Raspberry Pi Pico, but the code should be 
 
 ![displayArrayPico](https://savageelectronics.com/wp-content/uploads/2021/05/g16799-1024x625.png)
 
-###SPI Port < ST7735.h>
+### SPI Port < ST7735.h>
 
 ```c++
 #define PIN_BLK     21
@@ -23,7 +23,7 @@ For this clock project, I’m using a Raspberry Pi Pico, but the code should be 
 #define PIN_CS6      11
 ```
 
-###Buttons < main.h >
+### Buttons < main.h >
 
 ```c++
 #define PIN_BTNA      6
@@ -32,7 +32,7 @@ For this clock project, I’m using a Raspberry Pi Pico, but the code should be 
 #define PIN_BTND      9
 ```
 
-##Posible error in the Pico SDK
+## Posible error in the Pico SDK
 There is a chance that your pico-SDK has an error and the program would not start. In your SDK directory: pico-sdk/src/common/pico_time/time.c file comment line 17, //CU_SELECT_DEBUG_PINS(core) and now the program should run with any problem.
 
 ```c++
