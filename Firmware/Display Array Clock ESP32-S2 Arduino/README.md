@@ -1,8 +1,12 @@
-# Display Array Board Clock Themes
+# Configuring Arduino Boards for ESP32-S2
 ![displayArray](https://savageelectronics.com/wp-content/uploads/2021/07/DisplayArray-Sideview.png)
 
-These are some themes that I have created to be use with the display array board. Every theme can be modified or resized with the Master SVG File for better results. 
+In order to configure the Arduino IDE for the ESP32-S2 it is necessary to add the Espressif board configuration files.
 
-The display array has a back connector that allows the comunication with the displays and buttons. The pinout of the connector is the following:
+![displayArrayArduinoIDE](https://savageelectronics.com/wp-content/uploads/2021/07/PreferencesArduino.png)
 
-![displayArrayPinout](https://savageelectronics.com/wp-content/uploads/2021/07/DisplayArray_Pinout.png)
+### Espressif Repository for ESP32-S2
+
+´´´c++
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+´´´
