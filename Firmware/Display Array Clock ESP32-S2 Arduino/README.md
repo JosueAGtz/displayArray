@@ -11,7 +11,7 @@ In order to configure the Arduino IDE for the ESP32-S2 it is necessary to add th
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 ```
 
-## Steps to install Arduino ESP32 support on Windows
+## Steps to install Arduino ESP32 support on Windows ( Alternative )
 ### Tested on 32 and 64 bit Windows 10 machines
 
 1. Download and install the latest Arduino IDE ```Windows Installer``` from [arduino.cc](https://www.arduino.cc/en/Main/Software)
