@@ -3,6 +3,8 @@
 
 In order to configure the Arduino IDE for the ESP32-S2 it is necessary to add the Espressif board configuration files.
 
+![displayArrayArduinoP](https://savageelectronics.com/wp-content/uploads/2021/07/PreferencesArduino.png)
+
 ### Espressif Repository for ESP32-S2
 
 ```c++
