@@ -24,3 +24,12 @@ The display array has a back connector that allows the comunication with the dis
 ![displayArrayClock](https://savageelectronics.com/wp-content/uploads/2021/06/IMG_7267.jpg)
 
 
+
+# Get the Display Array Board & Controller 
+
+![displayArrayTindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png)
+
+https://www.tindie.com/products/savageelectronics/spi-display-array/
+
+https://www.tindie.com/products/savageelectronics/display-array-controller/
+
