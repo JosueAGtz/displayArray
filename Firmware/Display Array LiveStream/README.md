@@ -37,9 +37,9 @@ bool YouTubeLiveStream::scrapeIsChannelLive(const char *channelId, char *videoId
 
             channelIsLive = false;
 ```
-You can check what is the better word for you by opening the youtube.com page in an incognito window in your explorer.
+You can check what is the better word for you by opening the youtube.com page in an incognito window in your explorer and search in the codesoruce.
 
-### Youtube Livestream Notifier
+## Youtube Livestream Notifier
 
 ![displayArrayNotLive](https://savageelectronics.com/wp-content/uploads/2021/07/IMG_7319-scaled.jpg)
 
