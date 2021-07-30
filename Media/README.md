@@ -28,3 +28,9 @@ These are some themes that I have created to be use with the display array board
 ![displayArrayNotebook](https://savageelectronics.com/wp-content/uploads/2021/07/Notebook.png)
 ### Wood
 ![displayArrayWood](https://savageelectronics.com/wp-content/uploads/2021/07/Wood.png)
+### Butterfly
+![displayArrayButterfly](https://savageelectronics.com/wp-content/uploads/2021/07/Butterfly.png)
+### Flowers
+![displayArrayFlowers](https://savageelectronics.com/wp-content/uploads/2021/07/Flowers.png)
+### RGB
+![displayArrayRGB](https://savageelectronics.com/wp-content/uploads/2021/07/RGB.png)
