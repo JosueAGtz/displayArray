@@ -34,3 +34,6 @@ These are some themes that I have created to be use with the display array board
 ![displayArrayFlowers](https://savageelectronics.com/wp-content/uploads/2021/07/Flowers.png)
 ### RGB
 ![displayArrayRGB](https://savageelectronics.com/wp-content/uploads/2021/07/RGB.png)
+### Predator
+![displayArrayPredator](https://savageelectronics.com/wp-content/uploads/2021/09/Predator.png)
+
