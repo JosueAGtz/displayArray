@@ -36,4 +36,6 @@ These are some themes that I have created to be use with the display array board
 ![displayArrayRGB](https://savageelectronics.com/wp-content/uploads/2021/07/RGB.png)
 ### Predator
 ![displayArrayPredator](https://savageelectronics.com/wp-content/uploads/2021/09/Predator.png)
+### Stargate
+![displayArrayStargate](https://savageelectronics.com/wp-content/uploads/2021/10/clockStargate.png)
 
