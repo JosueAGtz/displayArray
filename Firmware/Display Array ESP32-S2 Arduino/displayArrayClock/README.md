@@ -34,6 +34,22 @@ For the displayArray controller you will have this message at the end but dont w
 
 ![displayArrayClock_uploadErr](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_UploadErr.png)
 
+Now its time to configure your clock as you prefer by selecting your favorite Clock Theme, your Flag and Timezone, I use the Find and replace option to change all the clock theme definitions and click Replace all.
+
+![displayArrayClock_Themerep](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_displayArray_Theme.png)
+
+Set your Wifi Credentials
+
+![displayArrayClock_WifiCredentials](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_displayArray_Credentials.png)
+
+And for the time zone just set it in seconds, for example Mexico is GTM-6 that would be minus 6 hours so that will be -6 * 3600, as there are 3600 seconds in an hour. 
+
+![displayArrayClock_timezpnesetting](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_displayArray_Timezone.png)
+
+
+
+
+
 
 
 
