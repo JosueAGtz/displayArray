@@ -64,7 +64,7 @@ typedef struct alarm_pool_entry {
     void *user_data;
 } alarm_pool_entry_t;
 ```
-## Visual Studio Code - Esspresif Plugin ESP32-S2
+## Visual Studio Code - Espressif Plugin ESP32-S2
 
 The latest firmware includes the addition of 4 timezones with different clock themes with the corresponding country Flag, the firmware is based on the SNTP example provided by Expressif which allows you to configure and set your Wifi’s SSID and password for automatic clock time according to the chosen timezones.
 
