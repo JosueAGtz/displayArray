@@ -3,13 +3,27 @@
 
 In order to configure the Arduino IDE for the ESP32-S2 it is necessary to add the Espressif board configuration files.
 
-![displayArrayArduinoP](https://savageelectronics.com/wp-content/uploads/2021/07/PreferencesArduino.png)
+1.- Open your arduino IDE Preferences and click the add Additional Boards Manager URLs
 
-### Espressif Repository for ESP32-S2
+![displayArrayArduinoPreferences](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_ESP32S2.png)
 
+2.- Add the following Espressif Repository for ESP32-S2 URL:
 ```c++
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 ```
+![displayArrayArduinoURL](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_addESP32S2.png)
+
+3.- Close and open again the Arduino IDE and click the menu Tools>Board>Boards Manager and search for ESP32 and install the latest version available. 
+
+![displayArrayArduinoBoardManager](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_boardManager.png)
+
+4.- Now you can select the ESP32S2 Dev Module on the menu Tools>Board>ESP32 Arduino.
+
+![displayArrayArduinoBoardModule](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_boardESP32S2.png)
+
+For most of the displayArray apps you will need to use the Huge App partition scheme.
+
+![displayArrayArduinoBoardPartition](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_appSizeESP32S2.png)
 
 ## Steps to install Arduino ESP32 support on Windows ( Alternative )
 ### Tested on 32 and 64 bit Windows 10 machines
