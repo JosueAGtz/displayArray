@@ -1,6 +1,6 @@
 # Display Array Animated GIF Firmware
 
-For this Animated GIF project, you will need to add some libraries to your Arduino IDE, this app was written by Larry Banks to test his awesome library capable of showing GIFs. 
+For this Animated GIF project, you will need to add some libraries to your Arduino IDE, this app was written by Larry Bank to test his awesome library capable of showing GIFs. 
 
 ```c++
  Animated GIF
