@@ -4,7 +4,6 @@
 
 #include <YouTubeLiveStream.h>
 #include <ArduinoJson.h>
-
 #include <bb_spi_lcd.h>
 
 #include "Youtubers.h"
@@ -72,8 +71,6 @@ int brightness = 80;    // how bright the Backlight LED is
 
 Adafruit_NeoPixel pixel = Adafruit_NeoPixel(1, PINSLED, NEO_GRB + NEO_KHZ800);
 
-
-uint8_t ucTXBuf[1024];
 uint8_t imgBuffer[bufferLenght];
 SPILCD lcd[6];
 
@@ -209,8 +206,6 @@ void setup() {
   digitalWrite(RESET_PIN, LOW);
   delay(100);
   digitalWrite(RESET_PIN, HIGH);
-
-  spilcdSetTXBuffer(ucTXBuf, sizeof(ucTXBuf));
 
   for (int i=0; i<6; i++) {
     spilcdInit(&lcd[i], LCD_ST7735S_B, FLAGS_INVERT | FLAGS_SWAP_RB, 40000000, CS1_PIN + i, DC_PIN, -1, BLK_PIN, MISO_PIN, MOSI_PIN, SCK_PIN);
