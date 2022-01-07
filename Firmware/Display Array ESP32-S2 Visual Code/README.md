@@ -14,7 +14,7 @@ After installing and opening the example we just need to configure the example f
 
 ![displayArrayPartition](https://savageelectronics.com/wp-content/uploads/2022/01/VisualCodeHugeAPP.png)
 
-And now is as easy as adding the SPI configurations for the displays.
+### ESP32-S2 Pinout
 
 ![displayArraySaola](https://savageelectronics.com/wp-content/uploads/2021/07/ESP32_SCH.png)
 
