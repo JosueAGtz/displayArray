@@ -72,9 +72,11 @@ I am very new with the ESP32 so I have tried with MicroPython, CircuitPython, Ar
 
 ![displayArrayESP32](https://savageelectronics.com/wp-content/uploads/2021/05/EspressifPlugIn-1024x579.png)
 
-After installing and opening the example we just need to configure the example for the Wifi credentials.
+After installing and opening the example we just need to configure the example for the Wifi credentials and confirm that the partition table is set to 3M.
 
 ![displayArrayWifi](https://savageelectronics.com/wp-content/uploads/2021/05/WifiConf-1024x588.png)
+
+![displayArrayPartition](https://savageelectronics.com/wp-content/uploads/2021/05/WifiConf-1024x588.png)
 
 And now is as easy as adding the SPI configurations for the displays.
 
