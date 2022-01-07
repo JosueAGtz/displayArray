@@ -25,6 +25,27 @@ Search and install each library as shown below.
 
 After installing all the libraries you should now be able to compile the code, so prepare your ESP32-S2 to load the app, dont forget to use Huge app as partition scheme.
 
+![displayArrayYoutube_verified](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_liveStreamVerified.png)
+
+If you are using the displayArray controller remmber that it does not have a USB to Serial converter so you will need to put it in Boodtloader mode by pressing reset and boot at the same time, then release the reset button and after 3 seconds release also the boot button and your controller will be in bootloader mode. 
+
+Now press the upload button to load your app in to your ESP32-S2.
+
+![displayArrayYoutube_uploading](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_liveStreamUpload.png)
+
+For the displayArray controller you will have this message at the end but dont worry your app has been loaded sucessfully and you just need to press the restart button on the controller board. 
+
+![displayArrayYoutube_uploadErr](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_liveStreamApp.png)
+
+Now its time to configure your desired Youtube Channels IDs and Wifi Credentials
+
+![displayArrayYoutube_Settings](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_liveStreamconfig.png)
+
+![displayArrayYoutube_YoutubersImages](https://savageelectronics.com/wp-content/uploads/2022/01/Youtubers_Images.png)
+
+The Youtubers Images should be converted and pasted in to the Youtubers.h file, I like to use LCD Image Converter for this.
+
+![displayArrayYoutube_YoutubersImagesHEX](https://savageelectronics.com/wp-content/uploads/2022/01/LCDImageYoutubers.png)
 
 ## Troubleshooting
 
