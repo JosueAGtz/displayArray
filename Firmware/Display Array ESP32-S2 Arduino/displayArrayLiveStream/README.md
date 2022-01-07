@@ -1,5 +1,7 @@
 # Display Array Youtube Livestream Notifier Firmware
 
+![displayArrayLive](https://savageelectronics.com/wp-content/uploads/2021/07/IMG_7323-scaled.jpg)
+
 For this Youtube Notifier project, you will need to add some libraries to your Arduino IDE. 
 
 ```c++
@@ -76,10 +78,3 @@ bool YouTubeLiveStream::scrapeIsChannelLive(const char *channelId, char *videoId
             channelIsLive = false;
 ```
 You can check what is the better word for you by opening the youtube.com page in an incognito window in your explorer and search in the code source.
-
-## Youtube Livestream Notifier
-
-![displayArrayNotLive](https://savageelectronics.com/wp-content/uploads/2021/07/IMG_7319-scaled.jpg)
-
-![displayArrayLive](https://savageelectronics.com/wp-content/uploads/2021/07/IMG_7323-scaled.jpg)
-
