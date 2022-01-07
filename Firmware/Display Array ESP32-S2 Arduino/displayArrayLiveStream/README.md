@@ -1,12 +1,29 @@
-# Display Array Youtube Livestream Notifier
+# Display Array Youtube Livestream Notifier Firmware
 
-This sketch requires Youtube livestrem Arduino Library and Arduino JSON, For more info go to:
+For this Youtube Notifier project, you will need to add some libraries to your Arduino IDE. 
 
-https://github.com/witnessmenow/youtube-livestream-arduino
+```c++
+ Adafruit Neopixel
+ Youtube API
+ Arduino JSON
+ BB SPI LCD
+ ```
+ 
+ To add this libraries open your Arduino IDE and click in "Tools>Manage Libraries"
 
-for bb_spi_lcd go to:
+![displayArrayYoutube_manageLib](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_liveStreamLib.png)
 
-https://github.com/bitbank2/bb_spi_lcd
+Search and install each library as shown below.
+
+![displayArrayYoutube_manageLib_Neopixel](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_neoPixel.png)
+
+![displayArrayYoutube_manageLib_YoutubeAPI](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_liveStreamAPI.png)
+
+![displayArrayYoutube_manageLib_ArduinoJSON](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_ArduinoJSON.png)
+
+![displayArrayYoutube_manageLib_BBSPILCD](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_bbSPILCD.png)
+
+After installing all the libraries you should now be able to compile the code, so prepare your ESP32-S2 to load the app, dont forget to use Huge app as partition scheme.
 
 
 ## Troubleshooting
