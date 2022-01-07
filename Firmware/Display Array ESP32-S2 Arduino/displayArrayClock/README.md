@@ -1,6 +1,6 @@
 # Display Array Clock Firmware
 
-![displayArrayClock](https://savageelectronics.com/wp-content/uploads/2022/01/displayArrayClock.jpg)
+![displayArrayClock](https://savageelectronics.com/wp-content/uploads/2022/01/displayArrayClockapp-scaled.jpg)
 
 For this clock project, you will need to add some libraries to your Arduino IDE. 
 
