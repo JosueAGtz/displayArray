@@ -1,5 +1,7 @@
 # Display Array Animated GIF Firmware
 
+![displayArrayGIF_Animation](https://savageelectronics.com/wp-content/uploads/2022/01/AnimatedGIFApp.gif)
+
 For this Animated GIF project, you will need to add some libraries to your Arduino IDE, this app was written by Larry Bank to test his awesome library capable of showing GIFs. 
 
 ```c++
