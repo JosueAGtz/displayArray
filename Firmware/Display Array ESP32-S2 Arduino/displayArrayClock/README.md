@@ -46,7 +46,7 @@ Set your Wifi Credentials
 
 And for the time zone just set it in seconds, for example Mexico is GTM-6 that would be minus 6 hours so that will be -6 * 3600, as there are 3600 seconds in an hour. 
 
-![displayArrayClock_timezpnesetting](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_displayArray_Timezone.png)
+![displayArrayClock_timezpnesetting](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_displayArray_Timezoneset.png)
 
 
 
