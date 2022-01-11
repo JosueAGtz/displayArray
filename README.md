@@ -27,7 +27,7 @@ The display array has a back connector that allows the comunication with the dis
 
 # Get the Display Array Board & Controller 
 
-![displayArraykofi](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5caafce41aed36753f715673_support_buyme.gif)
+![displayArraykofi](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbed8a433a3f45a772abaf5_SupportMe_blue-p-500.png)
 
 ![displayArrayTindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png)
 
