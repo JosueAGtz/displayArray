@@ -31,6 +31,8 @@ After installing all the libraries you should now be able to compile the code, s
 
 If you are using the displayArray controller remmber that it does not have a USB to Serial converter so you will need to put it in Boodtloader mode by pressing reset and boot at the same time, then release the reset button and after 3 seconds release also the boot button and your controller will be in bootloader mode. 
 
+![displayArrayCtlrBootMode](https://savageelectronics.com/wp-content/uploads/2022/01/bootMode.gif)
+
 Now press the upload button to load your app in to your ESP32-S2.
 
 ![displayArrayYoutube_uploading](https://savageelectronics.com/wp-content/uploads/2022/01/Arduino_liveStreamUpload.png)
