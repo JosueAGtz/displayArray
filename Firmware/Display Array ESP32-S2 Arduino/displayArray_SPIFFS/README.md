@@ -1,9 +1,7 @@
-# Display Array Board
+# Display Array Clock using 3MB SPIFFS
 ![displayArray](https://savageelectronics.com/wp-content/uploads/2021/07/DisplayArray-Sideview.png)
 
-The display array is a board that sets 6 ST7735 display with a resolution of 80x160px in a linear array sharing the clock, data, rs, backlight pins together, and leaving individual access to the cs lines of each display, The PCB is intended to be compatible with any Microcontroller or SBC like the Raspberry as it only needs some GPIOs and an SPI Port. This makes the PCB compatible with a simple microcontroller as an Arduino to other more advanced microcontrollers. We could say this board is a breakout board for the arrangement of six displays and 4 buttons. 
-
-The display array has a back connector that allows the comunication with the displays and buttons. The pinout of the connector is the following:
+This code uses the ESP32-S2 Stick internal flash memory for the APP(1MB) and SPIFFS(3MB) making posible just to copy paste your PNG theme files directly to the data folder in your Arduino project and uploaded directly using the SPIFFS Uploader for the ESP32-S2.
 
 
 
