@@ -1,5 +1,5 @@
 # Display Array Clock using 3MB SPIFFS
-![displayArray](https://savageelectronics.com/wp-content/uploads/2021/07/DisplayArray-Sideview.png)
+![displayArrayMenu](https://savageelectronics.com/wp-content/uploads/2022/05/displayArray_Menu.png)
 
 This code uses the ESP32-S2 Stick internal flash memory for the APP(1MB) and SPIFFS(3MB) making posible just to copy paste your PNG theme files directly to the data folder in your Arduino project and uploaded directly using the SPIFFS Uploader for the ESP32-S2.
 
@@ -16,3 +16,5 @@ The files that you want to upload shoud be contained in a directory data next to
 ![displayArray_SPIFFSTOOL](https://savageelectronics.com/wp-content/uploads/2022/05/displayArray_SPIFFSdata.png)
 
 This sketch uses the bb_spi_lcd, PNGdec and NTPClient libraries, so be sure to copy those folders in to your Arduino libraries folder.
+
+![displayArrayThemes](https://savageelectronics.com/wp-content/uploads/2022/05/displayArray_Theme.png)
