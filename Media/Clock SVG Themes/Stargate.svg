@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Stargate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52410025"
+     inkscape:cx="1594.1607"
+     inkscape:cy="359.66401"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       y="-0.11999989"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter16993"
+       x="-0.22222276"
+       width="1.4444455">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur16983" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite16985" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite16987" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix16989" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend16991" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient20159"
+       cx="-514.97412"
+       cy="620.42993"
+       fx="-514.97412"
+       fy="620.42993"
+       r="26.999935"
+       gradientTransform="matrix(1,0,0,1.851858,0,-528.51819)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient20157">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop20153" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop20155" />
+    </linearGradient>
+    <filter
+       y="-0.11999989"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter20544"
+       x="-0.22222292"
+       width="1.4444458">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur20534" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite20536" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite20538" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix20540" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend20542" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient20588"
+       cx="-428.41516"
+       cy="620.42993"
+       fx="-428.41516"
+       fy="620.42993"
+       r="26.999914"
+       gradientTransform="matrix(1,0,0,1.8518593,0,-528.51904)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.11999989"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21743"
+       x="-0.22222288"
+       width="1.4444458">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21733" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21735" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21737" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21739" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21741" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21805"
+       cx="-341.85632"
+       cy="620.42993"
+       fx="-341.85632"
+       fy="620.42993"
+       r="26.99992"
+       gradientTransform="matrix(1,0,0,1.851859,0,-528.51883)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.11999988"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21731"
+       x="-0.22222296"
+       width="1.4444459">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21721" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21723" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21725" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21727" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21729" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21807"
+       cx="-255.29742"
+       cy="620.42993"
+       fx="-255.29742"
+       fy="620.42993"
+       r="26.99991"
+       gradientTransform="matrix(1,0,0,1.8518599,0,-528.51936)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.11999989"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21719"
+       x="-0.22222284"
+       width="1.4444457">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21709" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21711" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21713" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21715" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21717" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21809"
+       cx="-168.73853"
+       cy="620.42993"
+       fx="-168.73853"
+       fy="620.42993"
+       r="26.999926"
+       gradientTransform="matrix(1,0,0,1.8518587,0,-528.51861)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.11999988"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21707"
+       x="-0.22222298"
+       width="1.444446">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21697" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21699" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21701" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21703" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21705" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21811"
+       cx="-82.179604"
+       cy="620.42993"
+       fx="-82.179604"
+       fy="620.42993"
+       r="26.999908"
+       gradientTransform="matrix(1,0,0,1.85186,0,-528.51947)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.11999987"
+       height="1.2399997"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21695"
+       x="-0.22222284"
+       width="1.4444457">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21685" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21687" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21689" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21691" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21693" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21813"
+       cx="4.379303"
+       cy="620.42993"
+       fx="4.379303"
+       fy="620.42993"
+       r="26.999926"
+       gradientTransform="matrix(1,0,0,1.851859,0,-528.51884)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.11999989"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21683"
+       x="-0.22222284"
+       width="1.4444457">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21673" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21675" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21677" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21679" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21681" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21815"
+       cx="90.938225"
+       cy="620.42993"
+       fx="90.938225"
+       fy="620.42993"
+       r="26.999926"
+       gradientTransform="matrix(1,0,0,1.8518587,0,-528.51864)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.11999989"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21671"
+       x="-0.22222296"
+       width="1.4444459">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21661" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21663" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21665" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21667" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21669" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21817"
+       cx="177.49712"
+       cy="620.42993"
+       fx="177.49712"
+       fy="620.42993"
+       r="26.99991"
+       gradientTransform="matrix(1,0,0,1.8518597,0,-528.51925)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.11999989"
+       height="1.2399998"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21659"
+       x="-0.22222296"
+       width="1.4444459">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21649" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21651" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21653" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21655" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21657" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21819"
+       cx="264.05603"
+       cy="620.42993"
+       fx="264.05603"
+       fy="620.42993"
+       r="26.99991"
+       gradientTransform="matrix(1,0,0,1.8518597,0,-528.51925)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.17142857"
+       height="1.3428571"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter21647"
+       x="-0.6"
+       width="2.2">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur21637" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite21639" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite21641" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix21643" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend21645" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient21821"
+       cx="352.31613"
+       cy="619.58124"
+       fx="352.31613"
+       fy="619.58124"
+       r="10"
+       gradientTransform="matrix(1,0,0,3.5,0,-1548.9531)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1826"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.5,0,-1548.9531)"
+       cx="352.31613"
+       cy="619.58124"
+       fx="352.31613"
+       fy="619.58124"
+       r="10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1828"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.5,0,-1548.9531)"
+       cx="352.31613"
+       cy="619.58124"
+       fx="352.31613"
+       fy="619.58124"
+       r="10" />
+    <filter
+       y="-0.11999987"
+       height="1.2399997"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter28899"
+       x="-0.22222091"
+       width="1.4444418">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur28889" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite28891" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite28893" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix28895" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend28897" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient28925"
+       cx="869.96875"
+       cy="620.42993"
+       fx="869.96875"
+       fy="620.42993"
+       r="27.00016"
+       gradientTransform="matrix(1,0,0,1.8518429,0,-528.50884)"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2623">
+      <rect
+         style="fill:#000000;stroke-width:0.776629;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2625"
+         width="80"
+         height="160"
+         x="483.73306"
+         y="540.42993"
+         inkscape:export-filename="C:\Users\Josue\Dropbox\ClocksDesigns\Clock Faces\Clock Stargate\space.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </clipPath>
+    <filter
+       y="-0.42857388"
+       height="1.8571478"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter31994"
+       x="-0.22222309"
+       width="1.4444462">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur31984" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite31986" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite31988" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix31990" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend31992" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient32020"
+       cx="523.73303"
+       cy="620.42993"
+       fx="523.73303"
+       fy="620.42993"
+       r="26.999895"
+       gradientTransform="matrix(1,0,0,1.8518609,0,-528.52)"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2627">
+      <rect
+         style="fill:#000000;stroke-width:0.776629;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2629"
+         width="80"
+         height="160"
+         x="570.29199"
+         y="540.42993"
+         inkscape:export-filename="C:\Users\Josue\Dropbox\ClocksDesigns\Clock Faces\Clock Stargate\space.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </clipPath>
+    <filter
+       y="-0.42016027"
+       height="1.8403205"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter34079"
+       x="-0.66667037"
+       width="2.3333407">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur34069" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite34071" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite34073" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix34075" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend34077" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient34105"
+       cx="610.29199"
+       cy="620.42993"
+       fx="610.29199"
+       fy="620.42993"
+       r="27.000151"
+       gradientTransform="matrix(1,0,0,1.8518436,0,-528.50927)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.12000049"
+       height="1.240001"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter36734"
+       x="-0.22222296"
+       width="1.4444459">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur36724" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite36726" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite36728" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix36730" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend36732" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient36760"
+       cx="437.17401"
+       cy="620.42993"
+       fx="437.17401"
+       fy="620.42993"
+       r="26.99991"
+       gradientTransform="matrix(1,0,0,1.8518504,0,-528.51351)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.42016026"
+       height="1.8403205"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter2006"
+       x="-0.66667038"
+       width="2.3333406">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur1996" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite1998" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite2000" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix2002" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend2004" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1987"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.8518436,86.5589,-528.50927)"
+       cx="610.29199"
+       cy="620.42993"
+       fx="610.29199"
+       fy="620.42993"
+       r="27.000151" />
+    <filter
+       y="-0.1200009"
+       height="1.2400018"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter1854"
+       x="-0.22222222"
+       width="1.4444444">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur1844" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite1846" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite1848" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix1850" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend1852" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1880"
+       cx="1273.338"
+       cy="614.62524"
+       fx="1273.338"
+       fy="614.62524"
+       r="27"
+       gradientTransform="matrix(1,0,0,1.851838,0,-523.56114)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-0.42857388"
+       height="1.8571478"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter2035"
+       x="-0.22222309"
+       width="1.4444462">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur2025" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite2027" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite2029" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix2031" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend2033" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient2202"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.8518609,-86.559086,-492.51987)"
+       cx="523.73303"
+       cy="620.42993"
+       fx="523.73303"
+       fy="620.42993"
+       r="26.999895" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1247"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402804,93.954906,-365.36944)"
+       cx="523.73303"
+       cy="620.42993"
+       fx="523.73303"
+       fy="620.42993"
+       r="26.999895" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1249"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88401711,-98.602569,-377.41672)"
+       cx="1273.338"
+       cy="614.62524"
+       fx="1273.338"
+       fy="614.62524"
+       r="27" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1251"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.47737281,0,0,0.88401978,759.27033,-382.54981)"
+       cx="610.29199"
+       cy="620.42993"
+       fx="610.29199"
+       fy="620.42993"
+       r="27.000151" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1253"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402303,341.88028,-382.55183)"
+       cx="437.17401"
+       cy="620.42993"
+       fx="437.17401"
+       fy="620.42993"
+       r="26.99991" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1255"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88401978,135.27586,-382.54981)"
+       cx="610.29199"
+       cy="620.42993"
+       fx="610.29199"
+       fy="620.42993"
+       r="27.000151" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402804,135.27584,-382.55493)"
+       cx="523.73303"
+       cy="620.42993"
+       fx="523.73303"
+       fy="620.42993"
+       r="26.999895" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1259"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88401945,176.59673,-382.5496)"
+       cx="869.96875"
+       cy="620.42993"
+       fx="869.96875"
+       fy="620.42993"
+       r="27.00016" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1261"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.5,0,-1548.9531)"
+       cx="352.31613"
+       cy="619.58124"
+       fx="352.31613"
+       fy="619.58124"
+       r="10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1263"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.5,0,-1548.9531)"
+       cx="352.31613"
+       cy="619.58124"
+       fx="352.31613"
+       fy="619.58124"
+       r="10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1265"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.5,0,-1548.9531)"
+       cx="352.31613"
+       cy="619.58124"
+       fx="352.31613"
+       fy="619.58124"
+       r="10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1267"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402747,135.27586,-382.55457)"
+       cx="264.05603"
+       cy="620.42993"
+       fx="264.05603"
+       fy="620.42993"
+       r="26.99991" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1269"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402747,135.27586,-382.55457)"
+       cx="177.49712"
+       cy="620.42993"
+       fx="177.49712"
+       fy="620.42993"
+       r="26.99991" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1271"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402699,135.27586,-382.55428)"
+       cx="90.938225"
+       cy="620.42993"
+       fx="90.938225"
+       fy="620.42993"
+       r="26.999926" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1273"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402713,135.27586,-382.55437)"
+       cx="4.379303"
+       cy="620.42993"
+       fx="4.379303"
+       fy="620.42993"
+       r="26.999926" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1275"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402761,135.27586,-382.55467)"
+       cx="-82.179604"
+       cy="620.42993"
+       fx="-82.179604"
+       fy="620.42993"
+       r="26.999908" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1277"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402699,135.27586,-382.55426)"
+       cx="-168.73853"
+       cy="620.42993"
+       fx="-168.73853"
+       fy="620.42993"
+       r="26.999926" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1279"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402756,135.27586,-382.55462)"
+       cx="-255.29742"
+       cy="620.42993"
+       fx="-255.29742"
+       fy="620.42993"
+       r="26.99991" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1281"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402713,135.27586,-382.55437)"
+       cx="-341.85632"
+       cy="620.42993"
+       fx="-341.85632"
+       fy="620.42993"
+       r="26.99992" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1283"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402728,135.27586,-382.55447)"
+       cx="-428.41516"
+       cy="620.42993"
+       fx="-428.41516"
+       fy="620.42993"
+       r="26.999914" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20157"
+       id="radialGradient1285"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47737281,0,0,0.88402666,135.27586,-382.55406)"
+       cx="-514.97412"
+       cy="620.42993"
+       fx="-514.97412"
+       fy="620.42993"
+       r="26.999935" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1481">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1483"
+         width="38.189823"
+         height="67.692268"
+         x="366.19684"
+         y="132.0764"
+         inkscape:export-filename="C:\Users\Josue\Dropbox\Savage Electronics Boards\Display Array\Media\ClocksDesigns\Clock Faces\Clock Preview\Stargate.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1485">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1487"
+         width="38.189823"
+         height="67.692268"
+         x="407.51776"
+         y="132.0764"
+         inkscape:export-filename="C:\Users\Josue\Dropbox\Savage Electronics Boards\Display Array\Media\ClocksDesigns\Clock Faces\Clock Preview\Stargate.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke-width:1.34038;stroke-linecap:round;stroke-linejoin:round"
+       id="rect11622"
+       width="490.53946"
+       height="64.5"
+       x="-140.20676"
+       y="42.710339"
+       ry="7.3552632"
+       rx="7.3552632"
+       inkscape:export-filename="C:\Users\Josue\Dropbox\Savage Electronics Boards\Display Array\Media\ClocksDesigns\Clock Faces\Clock Preview\Stargate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;stroke-width:0.219704;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1453"
+       width="22.631578"
+       height="45.263157"
+       x="306.81421"
+       y="52.328762"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\space.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.9759px;line-height:1.25;font-family:LilyUPC;-inkscape-font-specification:'LilyUPC, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.0748491"
+       x="-94.198914"
+       y="343.16077"
+       id="text11873"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\Josue\Dropbox\Savage Electronics Boards\Display Array\Media\ClocksDesigns\Clock Faces\Clock Preview\Stargate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11871"
+         style="fill:#ffffff;stroke-width:0.0748491"
+         x="-94.198914"
+         y="343.16077">STARGATE</tspan></text>
+    <g
+       id="g40883"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\zero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect8107"
+         width="80"
+         height="160"
+         x="-554.97412"
+         y="540.42993" />
+      <path
+         id="path16963"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter16993)"
+         d="m -538.97424,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 74.00014 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.91538 c -0.0245,0.15489 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91538 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -74.00014 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z m 17.00001,20.00033 h 14.00016 c 1.66201,0 2.99982,1.33781 2.99982,2.99982 v 43.99989 c 0,1.66201 -1.33781,2.99982 -2.99982,2.99982 h -14.00016 c -1.66201,0 -2.99982,-1.33781 -2.99982,-2.99982 v -43.99989 c 0,-1.66201 1.33781,-2.99982 2.99982,-2.99982 z" />
+      <path
+         id="path16961"
+         style="opacity:1;fill:url(#radialGradient20159);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m -538.97424,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 74.00014 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.91538 c -0.0245,0.15489 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91538 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -74.00014 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z m 17.00001,20.00033 h 14.00016 c 1.66201,0 2.99982,1.33781 2.99982,2.99982 v 43.99989 c 0,1.66201 -1.33781,2.99982 -2.99982,2.99982 h -14.00016 c -1.66201,0 -2.99982,-1.33781 -2.99982,-2.99982 v -43.99989 c 0,-1.66201 1.33781,-2.99982 2.99982,-2.99982 z" />
+    </g>
+    <g
+       id="g40888"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\one.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect7991"
+         width="80"
+         height="160"
+         x="-468.41519"
+         y="540.42993" />
+      <path
+         id="path20514"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter20544)"
+         d="m -452.41528,570.42989 c -1.66201,0 -2.99981,1.33833 -2.99981,3.00033 v 26.9999 h 9.52913 5.57951 1.93166 c -0.01,-0.0983 -0.015,-0.19829 -0.015,-0.29921 v -0.4072 c -0.009,-0.22664 -0.0253,-0.44374 -0.0253,-0.67903 v -25.30854 c 0,-0.31196 0.0113,-0.61274 0.0253,-0.91002 v -2.39623 z m -2.99981,69.99986 v 7.00061 c 0,1.662 1.3378,2.99982 2.99981,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 3.00033,-1.33781 3.00033,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91485 c 1.66202,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -12.53463 -10.35751 -9.53327 z" />
+      <path
+         id="path20512"
+         style="opacity:1;fill:url(#radialGradient20588);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m -452.41528,570.42989 c -1.66201,0 -2.99981,1.33833 -2.99981,3.00033 v 26.9999 h 9.52913 5.57951 1.93166 c -0.01,-0.0983 -0.015,-0.19829 -0.015,-0.29921 v -0.4072 c -0.009,-0.22664 -0.0253,-0.44374 -0.0253,-0.67903 v -25.30854 c 0,-0.31196 0.0113,-0.61274 0.0253,-0.91002 v -2.39623 z m -2.99981,69.99986 v 7.00061 c 0,1.662 1.3378,2.99982 2.99981,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 3.00033,-1.33781 3.00033,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91485 c 1.66202,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -12.53463 -10.35751 -9.53327 z" />
+    </g>
+    <g
+       id="g40893"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\two.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect20988"
+         width="80"
+         height="160"
+         x="-381.85632"
+         y="540.42993" />
+      <path
+         id="path21615"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21743)"
+         d="m -365.85642,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 26.9999 h 9.52913 5.57951 6.06216 7.9375 4.50619 v -30.00023 z m -2.99982,69.99986 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91537 c 1.66201,0 2.99981,-1.33782 2.99981,-2.99982 v -7.00061 h -12.53463 -10.35751 -9.53327 z" />
+      <path
+         id="path21245"
+         style="opacity:1;fill:url(#radialGradient21805);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m -365.85642,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 26.9999 h 9.52913 5.57951 6.06216 7.9375 4.50619 v -30.00023 z m -2.99982,69.99986 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91537 c 1.66201,0 2.99981,-1.33782 2.99981,-2.99982 v -7.00061 h -12.53463 -10.35751 -9.53327 z" />
+    </g>
+    <g
+       id="g40898"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\three.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect7933"
+         width="80"
+         height="160"
+         x="-295.29742"
+         y="540.42993" />
+      <path
+         id="path21617"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21731)"
+         d="m -279.29752,570.42988 c -1.66201,0 -2.99981,1.33833 -2.99981,3.00033 v 26.99991 h 9.52913 5.57951 6.06216 7.9375 7.89151 12.92272 4.07727 v -26.99991 c 0,-1.662 -1.3378,-3.00033 -2.99982,-3.00033 z m -2.99981,69.99987 v 7.00058 c 0,1.66204 1.3378,2.99982 2.99981,2.99982 h 14.91537 c -0.0245,0.15492 -0.0377,0.31398 -0.0377,0.47596 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99981,2.99982 h 12.24474 c 1.662,0 2.99981,-1.33781 2.99981,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47596 h 14.91536 c 1.66202,0 2.99982,-1.33778 2.99982,-2.99982 v -7.00058 h -12.53463 -10.35751 -9.53327 z" />
+      <path
+         id="path21251"
+         style="opacity:1;fill:url(#radialGradient21807);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m -279.29752,570.42988 c -1.66201,0 -2.99981,1.33833 -2.99981,3.00033 v 26.99991 h 9.52913 5.57951 6.06216 7.9375 7.89151 12.92272 4.07727 v -26.99991 c 0,-1.662 -1.3378,-3.00033 -2.99982,-3.00033 z m -2.99981,69.99987 v 7.00058 c 0,1.66204 1.3378,2.99982 2.99981,2.99982 h 14.91537 c -0.0245,0.15492 -0.0377,0.31398 -0.0377,0.47596 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99981,2.99982 h 12.24474 c 1.662,0 2.99981,-1.33781 2.99981,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47596 h 14.91536 c 1.66202,0 2.99982,-1.33778 2.99982,-2.99982 v -7.00058 h -12.53463 -10.35751 -9.53327 z" />
+    </g>
+    <g
+       id="g40903"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\four.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2514"
+         width="80"
+         height="160"
+         x="-208.73853"
+         y="540.42993" />
+      <path
+         id="path21619"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21719)"
+         d="m -192.73863,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 46.99972 h 19.99982 v -2.99982 -7.65018 -6.35 c 0,-1.662 1.3378,-2.99982 2.99981,-2.99982 h 14.00018 12.92221 4.07779 v -26.9999 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z m -2.99982,69.99986 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.662 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91537 c 1.66201,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -12.53515 -10.35751 -9.53327 z" />
+      <path
+         id="path21253"
+         style="opacity:1;fill:url(#radialGradient21809);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m -192.73863,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 46.99972 h 19.99982 v -2.99982 -7.65018 -6.35 c 0,-1.662 1.3378,-2.99982 2.99981,-2.99982 h 14.00018 12.92221 4.07779 v -26.9999 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z m -2.99982,69.99986 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.662 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91537 c 1.66201,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -12.53515 -10.35751 -9.53327 z" />
+    </g>
+    <g
+       id="g40908"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\five.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2700"
+         width="80"
+         height="160"
+         x="-122.1796"
+         y="540.42993" />
+      <path
+         id="path21621"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21707)"
+         d="m -106.17969,570.42988 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 46.99971 h 22.65185 9.533281 1.814856 v -2.99981 -14.00018 c 0,-1.66201 1.337813,-2.99982 2.99982,-2.99982 h 14.000188 2.99982 v -26.9999 c 0,-1.662 -1.337813,-3.00034 -2.99982,-3.00034 z m -2.99982,69.99987 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.915379 c -0.0245,0.15488 -0.03773,0.31395 -0.03773,0.47593 v 16.52405 c 0,1.662 1.337839,2.99982 2.999819,2.99982 h 12.244731 c 1.661981,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.01273,-0.32105 -0.03723,-0.47593 h 14.915382 c 1.662007,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -11.457199 -10.357485 -9.533281 z" />
+      <path
+         id="path21257"
+         style="opacity:1;fill:url(#radialGradient21811);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m -106.17969,570.42988 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 46.99971 h 22.65185 9.533281 1.814856 v -2.99981 -14.00018 c 0,-1.66201 1.337813,-2.99982 2.99982,-2.99982 h 14.000188 2.99982 v -26.9999 c 0,-1.662 -1.337813,-3.00034 -2.99982,-3.00034 z m -2.99982,69.99987 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.915379 c -0.0245,0.15488 -0.03773,0.31395 -0.03773,0.47593 v 16.52405 c 0,1.662 1.337839,2.99982 2.999819,2.99982 h 12.244731 c 1.661981,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.01273,-0.32105 -0.03723,-0.47593 h 14.915382 c 1.662007,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -11.457199 -10.357485 -9.533281 z" />
+    </g>
+    <g
+       id="g40913"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\six.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect5458"
+         width="80"
+         height="160"
+         x="-35.620697"
+         y="540.42993" />
+      <path
+         id="path21623"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21695)"
+         d="m -19.620802,570.42991 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 46.99971 h 21.0157699 9.1767101 9.97098 13.05552 c 0.26654,0 0.52599,0.0163 0.78084,0.0408 v -47.04054 c 0,-1.662 -1.33782,-3.00034 -2.99982,-3.00034 z m 51,69.95904 c -0.25485,0.0245 -0.5143,0.0408 -0.78084,0.0408 H 17.542838 7.571858 -1.6048521 -22.620622 v 7.00061 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.9153799 c -0.0245,0.15489 -0.0377,0.31396 -0.0377,0.47594 v 16.52405 c 0,1.662 1.33784,2.99982 2.99982,2.99982 H 10.501428 c 1.66201,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47594 h 14.91536 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 z" />
+      <path
+         id="path21259"
+         style="opacity:1;fill:url(#radialGradient21813);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m -19.620802,570.42991 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 46.99971 h 21.0157699 9.1767101 9.97098 13.05552 c 0.26654,0 0.52599,0.0163 0.78084,0.0408 v -47.04054 c 0,-1.662 -1.33782,-3.00034 -2.99982,-3.00034 z m 51,69.95904 c -0.25485,0.0245 -0.5143,0.0408 -0.78084,0.0408 H 17.542838 7.571858 -1.6048521 -22.620622 v 7.00061 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.9153799 c -0.0245,0.15489 -0.0377,0.31396 -0.0377,0.47594 v 16.52405 c 0,1.662 1.33784,2.99982 2.99982,2.99982 H 10.501428 c 1.66201,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47594 h 14.91536 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 z" />
+    </g>
+    <g
+       id="g40918"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\seven.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect20990"
+         width="80"
+         height="160"
+         x="50.93821"
+         y="540.42993" />
+      <path
+         id="path21625"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21683)"
+         d="m 66.93812,570.42989 c -1.662006,0 -2.999819,1.33833 -2.999819,3.00033 v 74.00014 c 0,1.66201 1.337813,2.99982 2.999819,2.99982 h 14.915383 c -0.0245,0.15489 -0.03773,0.31395 -0.03773,0.47593 v 16.52405 c 0,1.66201 1.337839,2.99982 2.99982,2.99982 h 12.244731 c 1.66198,0 2.999816,-1.33781 2.999816,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91539 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -7.03315 c -0.13777,0.0192 -0.27742,0.0325 -0.42066,0.0325 h -7.9375 -6.06216 -5.579512 -14.000163 c -1.662006,0 -2.999819,-1.33781 -2.999819,-2.99982 v -14.00018 c 0,-1.662 1.337813,-2.99981 2.999819,-2.99981 h 14.000163 5.579512 6.06216 7.9375 c 0.14324,0 0.28289,0.0133 0.42066,0.0326 v -47.03227 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z" />
+      <path
+         id="path21261"
+         style="opacity:1;fill:url(#radialGradient21815);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m 66.93812,570.42989 c -1.662006,0 -2.999819,1.33833 -2.999819,3.00033 v 74.00014 c 0,1.66201 1.337813,2.99982 2.999819,2.99982 h 14.915383 c -0.0245,0.15489 -0.03773,0.31395 -0.03773,0.47593 v 16.52405 c 0,1.66201 1.337839,2.99982 2.99982,2.99982 h 12.244731 c 1.66198,0 2.999816,-1.33781 2.999816,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91539 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -7.03315 c -0.13777,0.0192 -0.27742,0.0325 -0.42066,0.0325 h -7.9375 -6.06216 -5.579512 -14.000163 c -1.662006,0 -2.999819,-1.33781 -2.999819,-2.99982 v -14.00018 c 0,-1.662 1.337813,-2.99981 2.999819,-2.99981 h 14.000163 5.579512 6.06216 7.9375 c 0.14324,0 0.28289,0.0133 0.42066,0.0326 v -47.03227 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z" />
+    </g>
+    <g
+       id="g40923"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\eight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect20992"
+         width="80"
+         height="160"
+         x="137.49712"
+         y="540.42993" />
+      <path
+         id="path21627"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21671)"
+         d="m 153.49703,570.42989 c -1.66203,0 -2.99982,1.33834 -2.99982,3.00033 v 74.00014 c 0,1.66201 1.33779,2.99982 2.99982,2.99982 h 14.91536 c -0.0245,0.15489 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91535 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -7.00061 h -3.00032 -10.29549 -3.70417 c -1.66201,0 -3.00035,-1.33781 -3.00035,-2.99982 v -14.00018 c 0,-1.662 1.33834,-2.99981 3.00035,-2.99981 h 3.70417 10.29549 3.00032 v -46.99972 c 0,-1.66199 -1.33781,-3.00033 -2.99982,-3.00033 z" />
+      <path
+         id="path21263"
+         style="opacity:1;fill:url(#radialGradient21817);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m 153.49703,570.42989 c -1.66203,0 -2.99982,1.33834 -2.99982,3.00033 v 74.00014 c 0,1.66201 1.33779,2.99982 2.99982,2.99982 h 14.91536 c -0.0245,0.15489 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91535 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -7.00061 h -3.00032 -10.29549 -3.70417 c -1.66201,0 -3.00035,-1.33781 -3.00035,-2.99982 v -14.00018 c 0,-1.662 1.33834,-2.99981 3.00035,-2.99981 h 3.70417 10.29549 3.00032 v -46.99972 c 0,-1.66199 -1.33781,-3.00033 -2.99982,-3.00033 z" />
+    </g>
+    <g
+       id="g40928"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\nine.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect20994"
+         width="80"
+         height="160"
+         x="224.05602"
+         y="540.42993" />
+      <path
+         id="path21629"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21659)"
+         d="m 240.05593,570.42989 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 74.00013 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.91536 c -0.0245,0.15489 -0.0377,0.31396 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16197 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91535 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -74.00013 c 0,-1.662 -1.33781,-3.00034 -2.99982,-3.00034 z" />
+      <path
+         id="path21265"
+         style="opacity:1;fill:url(#radialGradient21819);fill-opacity:1;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round"
+         d="m 240.05593,570.42989 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 74.00013 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.91536 c -0.0245,0.15489 -0.0377,0.31396 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16197 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91535 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -74.00013 c 0,-1.662 -1.33781,-3.00034 -2.99982,-3.00034 z" />
+    </g>
+    <g
+       id="g40937"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\colon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect5348"
+         width="80"
+         height="160"
+         x="310.61493"
+         y="540.42993" />
+      <g
+         id="g21635"
+         style="fill:#ffffff;filter:url(#filter21647)"
+         transform="translate(-1.7012024,0.84869385)">
+        <rect
+           style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2.37925;stroke-linecap:round;stroke-linejoin:round"
+           id="rect21631"
+           width="20"
+           height="20"
+           x="342.31613"
+           y="584.58124"
+           rx="3.0000045"
+           ry="3.0000045" />
+        <rect
+           style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2.37925;stroke-linecap:round;stroke-linejoin:round"
+           id="rect21633"
+           width="20"
+           height="20"
+           x="342.31613"
+           y="634.58124"
+           rx="3.0000045"
+           ry="3.0000045" />
+      </g>
+      <g
+         id="g21355"
+         style="fill:url(#radialGradient21821);fill-opacity:1"
+         transform="translate(-1.7012024,0.84869385)">
+        <rect
+           style="opacity:1;fill:url(#radialGradient1826);fill-opacity:1;stroke:none;stroke-width:2.37925;stroke-linecap:round;stroke-linejoin:round"
+           id="rect21269"
+           width="20"
+           height="20"
+           x="342.31613"
+           y="584.58124"
+           rx="3.0000045"
+           ry="3.0000045" />
+        <rect
+           style="opacity:1;fill:url(#radialGradient1828);fill-opacity:1;stroke:none;stroke-width:2.37925;stroke-linecap:round;stroke-linejoin:round"
+           id="rect21271"
+           width="20"
+           height="20"
+           x="342.31613"
+           y="634.58124"
+           rx="3.0000045"
+           ry="3.0000045" />
+      </g>
+    </g>
+    <g
+       id="g40975"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\brightness.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,47.533385,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect9607"
+         width="80"
+         height="160"
+         x="829.96875"
+         y="540.42993" />
+      <path
+         id="path28887"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter28899)"
+         d="m 845.96894,570.42988 c -1.66201,0 -3.00035,1.33782 -3.00035,2.99982 v 22.00021 h 15.00013 c 1.66201,0 2.99982,1.33781 2.99982,2.99981 v 13.75834 5.24154 3.00033 h 15.0001 c 1.66201,0 3.00035,1.33781 3.00035,2.99982 v 18.99986 c 0,1.66201 -1.33834,3.00035 -3.00035,3.00035 h -33.00005 v 21.99968 c 0,1.66201 1.33834,3.00035 3.00035,3.00035 h 47.99965 c 1.662,0 3.00032,-1.33834 3.00032,-3.00035 V 573.4297 c 0,-1.662 -1.33832,-2.99982 -3.00032,-2.99982 z" />
+      <path
+         id="path28867"
+         style="opacity:1;fill:url(#radialGradient28925);fill-opacity:1;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round"
+         d="m 845.96894,570.42988 c -1.66201,0 -3.00035,1.33782 -3.00035,2.99982 v 22.00021 h 15.00013 c 1.66201,0 2.99982,1.33781 2.99982,2.99981 v 13.75834 5.24154 3.00033 h 15.0001 c 1.66201,0 3.00035,1.33781 3.00035,2.99982 v 18.99986 c 0,1.66201 -1.33834,3.00035 -3.00035,3.00035 h -33.00005 v 21.99968 c 0,1.66201 1.33834,3.00035 3.00035,3.00035 h 47.99965 c 1.662,0 3.00032,-1.33834 3.00032,-3.00035 V 573.4297 c 0,-1.662 -1.33832,-2.99982 -3.00032,-2.99982 z" />
+    </g>
+    <g
+       id="g40947"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\am.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046315,-100.55602)"
+       clip-path="url(#clipPath2623)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.84574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13029"
+         width="80"
+         height="160"
+         x="483.73306"
+         y="540.42993" />
+      <path
+         id="path31982"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter31994)"
+         d="m 499.73299,570.42988 c -1.66201,0 -2.99982,1.33781 -2.99982,2.99981 v 22.00021 h 33.00005 c 1.662,0 2.99982,1.33782 2.99982,2.99982 v 18.99987 c 0,1.662 -1.33782,3.00033 -2.99982,3.00033 h -33.00005 v 25.5292 h 33.00005 c 1.662,0 2.99982,1.33781 2.99982,2.99982 v 18.99986 c 0,1.02857 -0.51414,1.93104 -1.29863,2.47118 h 16.29876 c 1.66198,0 2.99979,-1.33834 2.99979,-3.00035 v -93.99994 c 0,-1.662 -1.33781,-2.99981 -2.99979,-2.99981 z" />
+      <path
+         id="path31877"
+         style="opacity:1;fill:url(#radialGradient32020);fill-opacity:1;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round"
+         d="m 499.73299,570.42988 c -1.66201,0 -2.99982,1.33781 -2.99982,2.99981 v 22.00021 h 33.00005 c 1.662,0 2.99982,1.33782 2.99982,2.99982 v 18.99987 c 0,1.662 -1.33782,3.00033 -2.99982,3.00033 h -33.00005 v 25.5292 h 33.00005 c 1.662,0 2.99982,1.33781 2.99982,2.99982 v 18.99986 c 0,1.02857 -0.51414,1.93104 -1.29863,2.47118 h 16.29876 c 1.66198,0 2.99979,-1.33834 2.99979,-3.00035 v -93.99994 c 0,-1.662 -1.33781,-2.99981 -2.99979,-2.99981 z" />
+    </g>
+    <g
+       id="g40952"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\pm.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       clip-path="url(#clipPath2627)"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.84574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13015"
+         width="80"
+         height="160"
+         x="570.29199"
+         y="540.42993" />
+      <path
+         id="path34067"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter34079)"
+         d="m 586.29214,570.42988 c -1.662,0 -3.0003,1.33782 -3.0003,2.99982 v 93.99994 c 0,1.662 1.3383,3.00035 3.0003,3.00035 h 14.9996 V 570.42988 Z m 33.0001,0 v 28.56053 h 7.5913 1.7585 5.6498 3.0003 V 573.4297 c 0,-1.662 -1.3383,-2.99982 -3.0003,-2.99982 z m 0,71.43905 v 28.56106 h 14.9996 c 1.662,0 3.0003,-1.33835 3.0003,-3.00035 v -25.56071 h -3.0003 -5.6498 -1.7585 z" />
+      <path
+         id="path34047"
+         style="opacity:1;fill:url(#radialGradient34105);fill-opacity:1;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round"
+         d="m 586.29214,570.42988 c -1.662,0 -3.0003,1.33782 -3.0003,2.99982 v 93.99994 c 0,1.662 1.3383,3.00035 3.0003,3.00035 h 14.9996 V 570.42988 Z m 33.0001,0 v 28.56053 h 7.5913 1.7585 5.6498 3.0003 V 573.4297 c 0,-1.662 -1.3383,-2.99982 -3.0003,-2.99982 z m 0,71.43905 v 28.56106 h 14.9996 c 1.662,0 3.0003,-1.33835 3.0003,-3.00035 v -25.56071 h -3.0003 -5.6498 -1.7585 z" />
+    </g>
+    <g
+       id="g40942"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\percent.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,145.48167,-100.55602)">
+      <rect
+         style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+         id="rect5822"
+         width="80"
+         height="160"
+         x="397.17401"
+         y="540.42993" />
+      <path
+         id="path36722"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.50635;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter36734)"
+         d="m 428.17405,570.43014 v 21.99969 c 0,1.662 -1.33781,3.00033 -2.99982,3.00033 H 410.1741 v 25.00002 h 15.00013 c 1.66201,0 2.99982,1.33783 2.99982,2.99981 v 18.99989 c 0,1.66201 -1.33781,2.99982 -2.99982,2.99982 H 410.1741 v 22.00021 c 0,1.66198 1.33781,2.99982 2.99982,2.99982 h 33.00005 v -21.99971 c 0,-1.662 1.33781,-3.00032 2.99982,-3.00032 h 15.00013 v -24.99952 h -15.00013 c -1.66201,0 -2.99982,-1.33833 -2.99982,-3.00033 v -18.99987 c 0,-1.662 1.33781,-2.99982 2.99982,-2.99982 h 15.00013 v -22.00021 c 0,-1.662 -1.33781,-2.99981 -2.99982,-2.99981 z" />
+      <path
+         id="path36684"
+         style="opacity:1;fill:url(#radialGradient36760);fill-opacity:1;stroke:none;stroke-width:1.50635;stroke-linecap:round;stroke-linejoin:round"
+         d="m 428.17405,570.43014 v 21.99969 c 0,1.662 -1.33781,3.00033 -2.99982,3.00033 H 410.1741 v 25.00002 h 15.00013 c 1.66201,0 2.99982,1.33783 2.99982,2.99981 v 18.99989 c 0,1.66201 -1.33781,2.99982 -2.99982,2.99982 H 410.1741 v 22.00021 c 0,1.66198 1.33781,2.99982 2.99982,2.99982 h 33.00005 v -21.99971 c 0,-1.662 1.33781,-3.00032 2.99982,-3.00032 h 15.00013 v -24.99952 h -15.00013 c -1.66201,0 -2.99982,-1.33833 -2.99982,-3.00033 v -18.99987 c 0,-1.662 1.33781,-2.99982 2.99982,-2.99982 h 15.00013 v -22.00021 c 0,-1.662 -1.33781,-2.99981 -2.99982,-2.99981 z" />
+    </g>
+    <g
+       id="g2174"
+       transform="matrix(-0.28289474,0,0,0.28289474,417.31723,-100.55602)"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\degrees.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.84574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1979"
+         width="80"
+         height="160"
+         x="656.85089"
+         y="540.42993" />
+      <path
+         id="path1981"
+         style="fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter34079)"
+         d="m 705.85114,570.42988 v 28.56053 h 7.5913 1.7585 5.6498 3.0003 V 573.4297 c 0,-1.662 -1.3383,-2.99982 -3.0003,-2.99982 z"
+         sodipodi:nodetypes="ccccccssc" />
+      <path
+         id="path1983"
+         style="fill:url(#radialGradient1987);fill-opacity:1;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round"
+         d="m 705.85114,570.42988 v 28.56053 h 7.5913 1.7585 5.6498 3.0003 V 573.4297 c 0,-1.662 -1.3383,-2.99982 -3.0003,-2.99982 z"
+         sodipodi:nodetypes="ccccccssc" />
+    </g>
+    <g
+       id="g1902"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\alarm.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,-115.5518,-98.913913)">
+      <g
+         id="g1820"
+         inkscape:export-filename="C:\Users\Josue\Dropbox\ClocksDesigns\Clock Faces\Clock Stargate\space.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         transform="translate(673.60733,12.757842)">
+        <rect
+           style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1786"
+           width="80"
+           height="160"
+           x="559.73065"
+           y="521.86743" />
+        <path
+           id="path1788"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 597.75996,605.67804 c 1.55292,-5.23245 2.71639,-2.78845 3.94137,0 v 22.23813 c -1.28988,4.11123 -2.33648,4.36802 -3.94137,0 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1790"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 597.75996,639.98186 c 1.55292,-5.23245 2.71639,-2.78846 3.94137,0 v 22.23813 c -1.28988,4.11122 -2.33648,4.36802 -3.94137,0 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1792"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 626.90592,658.54976 c 3.80948,6.00563 0.69454,4.53609 -2.78697,2.78697 L 603.26162,640.4794 c -2.94387,-4.76804 -2.44466,-5.74895 2.78697,-2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1794"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 596.29883,627.94266 c 3.80947,6.00564 0.69453,4.5361 -2.78697,2.78697 L 572.65453,609.8723 c -2.94387,-4.76803 -2.44466,-5.74894 2.78697,-2.78696 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1796"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 575.34481,661.29236 c -6.00563,3.80948 -4.53609,0.69454 -2.78697,-2.78697 l 20.85733,-20.85733 c 4.76804,-2.94387 5.74895,-2.44466 2.78697,2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1798"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 605.95191,630.68527 c -6.00564,3.80947 -4.5361,0.69453 -2.78697,-2.78697 l 20.85733,-20.85733 c 4.76803,-2.94387 5.74894,-2.44466 2.78696,2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1800"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 628.05449,632.0312 c 5.23245,1.55292 2.78845,2.71639 0,3.94137 h -22.23813 c -4.11123,-1.28988 -4.36802,-2.33648 0,-3.94137 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1802"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 593.75067,632.0312 c 5.23245,1.55292 2.78846,2.71639 0,3.94137 h -22.23813 c -4.11122,-1.28988 -4.36802,-2.33648 0,-3.94137 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1804"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 597.75996,541.40914 c 1.55292,-5.23245 2.71639,-2.78845 3.94137,0 v 22.23813 c -1.28988,4.11123 -2.33648,4.36802 -3.94137,0 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1806"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 597.75996,575.71296 c 1.55292,-5.23245 2.71639,-2.78846 3.94137,0 v 22.23813 c -1.28988,4.11122 -2.33648,4.36802 -3.94137,0 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1808"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 626.90592,594.28086 c 3.80948,6.00563 0.69454,4.53609 -2.78697,2.78697 L 603.26162,576.2105 c -2.94387,-4.76804 -2.44466,-5.74895 2.78697,-2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1810"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 596.29883,563.67376 c 3.80947,6.00564 0.69453,4.5361 -2.78697,2.78697 L 572.65453,545.6034 c -2.94387,-4.76803 -2.44466,-5.74894 2.78697,-2.78696 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1812"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 575.34481,597.02346 c -6.00563,3.80948 -4.53609,0.69454 -2.78697,-2.78697 l 20.85733,-20.85733 c 4.76804,-2.94387 5.74895,-2.44466 2.78697,2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1814"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 605.95191,566.41637 c -6.00564,3.80947 -4.5361,0.69453 -2.78697,-2.78697 l 20.85733,-20.85733 c 4.76803,-2.94387 5.74894,-2.44466 2.78696,2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1816"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 628.05449,567.7623 c 5.23245,1.55292 2.78845,2.71639 0,3.94137 h -22.23813 c -4.11123,-1.28988 -4.36802,-2.33648 0,-3.94137 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1818"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 593.75067,567.7623 c 5.23245,1.55292 2.78846,2.71639 0,3.94137 h -22.23813 c -4.11122,-1.28988 -4.36802,-2.33648 0,-3.94137 z"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         id="path1842"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.63401;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter1854)"
+         d="m 1249.3384,564.62565 c -1.662,0 -3.0004,1.33833 -3.0004,3.00028 v 37.99945 h 17.9999 v -27.99959 c 0,-1.66201 1.3382,-3.00034 3.0001,-3.00034 h 11.9998 c 1.662,0 3.0003,1.33833 3.0003,3.00034 v 27.99959 h 17.9999 v -37.99945 c 0,-1.66195 -1.3384,-3.00028 -3.0004,-3.00028 z m -3.0004,58.99952 v 37.99996 c 0,1.66198 1.3384,2.99977 3.0004,2.99977 h 47.9992 c 1.662,0 3.0004,-1.33779 3.0004,-2.99977 v -37.99996 h -17.9999 v 28.00013 c 0,1.66199 -1.3383,2.9998 -3.0003,2.9998 h -11.9998 c -1.6619,0 -3.0001,-1.33781 -3.0001,-2.9998 v -28.00013 z" />
+      <path
+         id="path1822"
+         style="fill:url(#radialGradient1880);fill-opacity:1;stroke:none;stroke-width:6.63401;stroke-linecap:round;stroke-linejoin:round"
+         d="m 1249.3384,564.62565 c -1.662,0 -3.0004,1.33833 -3.0004,3.00028 v 37.99945 h 17.9999 v -27.99959 c 0,-1.66201 1.3382,-3.00034 3.0001,-3.00034 h 11.9998 c 1.662,0 3.0003,1.33833 3.0003,3.00034 v 27.99959 h 17.9999 v -37.99945 c 0,-1.66195 -1.3384,-3.00028 -3.0004,-3.00028 z m -3.0004,58.99952 v 37.99996 c 0,1.66198 1.3384,2.99977 3.0004,2.99977 h 47.9992 c 1.662,0 3.0004,-1.33779 3.0004,-2.99977 v -37.99996 h -17.9999 v 28.00013 c 0,1.66199 -1.3383,2.9998 -3.0003,2.9998 h -11.9998 c -1.6619,0 -3.0001,-1.33781 -3.0001,-2.9998 v -28.00013 z" />
+    </g>
+    <g
+       id="g2617"
+       inkscape:export-filename="C:\Users\Josue\Desktop\Stargate\dash.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.28289474,0,0,0.28289474,23.046325,-100.55602)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.84574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2194"
+         width="80"
+         height="160"
+         x="397.17398"
+         y="540.42993" />
+      <path
+         id="path2196"
+         style="fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter31994)"
+         d="m 413.1739,606.43001 c -1.66201,0 -2.99982,1.33781 -2.99982,2.99981 v 22.00021 h 33.00005 c 1.662,0 2.99982,1.33782 2.99982,2.99982 l 17.99992,-25.00003 c 0,-1.662 -1.33781,-2.99981 -2.99979,-2.99981 z"
+         sodipodi:nodetypes="sscsssss" />
+      <path
+         id="path2198"
+         style="fill:url(#radialGradient2202);fill-opacity:1;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round"
+         d="m 413.17391,606.43001 c -1.66201,0 -2.99982,1.33781 -2.99982,2.99981 v 22.00021 h 33.00005 c 1.662,0 2.99982,1.33782 2.99982,2.99982 l 17.99992,-25.00003 c 0,-1.662 -1.33781,-2.99981 -2.99979,-2.99981 z"
+         sodipodi:nodetypes="sscsssss" />
+    </g>
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke-width:2.26183;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1053"
+       width="827.7644"
+       height="108.841"
+       x="-140.20676"
+       y="111.502"
+       ry="12.411694"
+       rx="12.411694"
+       inkscape:export-filename="C:\Users\Josue\Dropbox\Savage Electronics Boards\Display Array\Media\ClocksDesigns\Clock Faces\Clock Preview\Stargate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1055"
+       width="38.189823"
+       height="67.692268"
+       x="614.12207"
+       y="132.07639"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\space.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.2088px;line-height:1.25;font-family:LilyUPC;-inkscape-font-specification:'LilyUPC, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.126305"
+       x="-198.38684"
+       y="675.45532"
+       id="text1059"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\Josue\Dropbox\Savage Electronics Boards\Display Array\Media\ClocksDesigns\Clock Faces\Clock Preview\Stargate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1057"
+         style="fill:#ffffff;stroke-width:0.126305"
+         x="-198.38684"
+         y="675.45532">STARGATE</tspan></text>
+    <g
+       id="g1365"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\zero.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1061"
+         width="38.189823"
+         height="67.692268"
+         x="-129.6537"
+         y="132.07639" />
+      <path
+         id="path1063"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter16993)"
+         d="m -538.97424,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 74.00014 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.91538 c -0.0245,0.15489 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91538 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -74.00014 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z m 17.00001,20.00033 h 14.00016 c 1.66201,0 2.99982,1.33781 2.99982,2.99982 v 43.99989 c 0,1.66201 -1.33781,2.99982 -2.99982,2.99982 h -14.00016 c -1.66201,0 -2.99982,-1.33781 -2.99982,-2.99982 v -43.99989 c 0,-1.66201 1.33781,-2.99982 2.99982,-2.99982 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1065"
+         style="fill:url(#radialGradient1285);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m -122.01579,142.05387 c -0.7934,0 -1.43203,0.63888 -1.43203,1.43228 v 35.32565 c 0,0.7934 0.63863,1.43203 1.43203,1.43203 h 7.1202 c -0.0117,0.0739 -0.018,0.14987 -0.018,0.2272 v 7.88813 c 0,0.7934 0.63865,1.43203 1.43203,1.43203 h 5.84531 c 0.79339,0 1.43203,-0.63863 1.43203,-1.43203 v -7.88813 c 0,-0.0773 -0.006,-0.15326 -0.0178,-0.2272 h 7.120197 c 0.793399,0 1.432033,-0.63863 1.432033,-1.43203 v -35.32565 c 0,-0.7934 -0.638634,-1.43228 -1.432033,-1.43228 z m 8.11535,9.54761 h 6.68329 c 0.7934,0 1.43203,0.63864 1.43203,1.43204 v 21.00435 c 0,0.7934 -0.63863,1.43203 -1.43203,1.43203 h -6.68329 c -0.7934,0 -1.43204,-0.63863 -1.43204,-1.43203 v -21.00435 c 0,-0.7934 0.63864,-1.43204 1.43204,-1.43204 z" />
+    </g>
+    <g
+       id="g1370"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\one.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1069"
+         width="38.189823"
+         height="67.692268"
+         x="-88.332817"
+         y="132.07639" />
+      <path
+         id="path1071"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter20544)"
+         d="m -452.41528,570.42989 c -1.66201,0 -2.99981,1.33833 -2.99981,3.00033 v 26.9999 h 9.52913 5.57951 1.93166 c -0.01,-0.0983 -0.015,-0.19829 -0.015,-0.29921 v -0.4072 c -0.009,-0.22664 -0.0253,-0.44374 -0.0253,-0.67903 v -25.30854 c 0,-0.31196 0.0113,-0.61274 0.0253,-0.91002 v -2.39623 z m -2.99981,69.99986 v 7.00061 c 0,1.662 1.3378,2.99982 2.99981,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 3.00033,-1.33781 3.00033,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91485 c 1.66202,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -12.53463 -10.35751 -9.53327 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1073"
+         style="fill:url(#radialGradient1283);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m -80.694894,142.05387 c -0.793398,0 -1.432027,0.63888 -1.432027,1.43228 v 12.88901 h 4.548947 2.663507 0.922122 c -0.0048,-0.0469 -0.0072,-0.0947 -0.0072,-0.14283 v -0.19439 c -0.0043,-0.10819 -0.01208,-0.21183 -0.01208,-0.32415 v -12.08161 c 0,-0.14892 0.0054,-0.2925 0.01208,-0.43442 v -1.14389 z m -1.432027,33.41603 v 3.3419 c 0,0.79339 0.638629,1.43203 1.432027,1.43203 h 7.120193 c -0.0117,0.0739 -0.018,0.14987 -0.018,0.2272 v 7.88813 c 0,0.7934 0.638648,1.43203 1.432032,1.43203 h 5.845301 c 0.793394,0 1.432276,-0.63863 1.432276,-1.43203 v -7.88813 c 0,-0.0773 -0.0061,-0.15326 -0.01776,-0.2272 h 7.119944 c 0.793403,0 1.432032,-0.63864 1.432032,-1.43203 v -3.3419 h -5.983691 -4.944394 -4.550924 z" />
+    </g>
+    <g
+       id="g1375"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\two.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1077"
+         width="38.189823"
+         height="67.692268"
+         x="-47.011967"
+         y="132.07639" />
+      <path
+         id="path1079"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21743)"
+         d="m -365.85642,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 26.9999 h 9.52913 5.57951 6.06216 7.9375 4.50619 v -30.00023 z m -2.99982,69.99986 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91537 c 1.66201,0 2.99981,-1.33782 2.99981,-2.99982 v -7.00061 h -12.53463 -10.35751 -9.53327 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1081"
+         style="fill:url(#radialGradient1281);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m -39.374047,142.05387 c -0.793399,0 -1.432033,0.63888 -1.432033,1.43228 v 12.88901 h 4.548948 2.663506 2.893911 3.789146 2.151133 v -14.32129 z m -1.432033,33.41603 v 3.3419 c 0,0.79339 0.638634,1.43203 1.432033,1.43203 h 7.120192 c -0.0117,0.0739 -0.018,0.14987 -0.018,0.2272 v 7.88813 c 0,0.7934 0.638648,1.43203 1.432032,1.43203 h 5.845302 c 0.793393,0 1.432032,-0.63863 1.432032,-1.43203 v -7.88813 c 0,-0.0773 -0.0061,-0.15326 -0.01776,-0.2272 h 7.120192 c 0.793398,0 1.432028,-0.63864 1.432028,-1.43203 v -3.3419 h -5.983692 -4.944394 -4.550924 z" />
+    </g>
+    <g
+       id="g1380"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\three.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1085"
+         width="38.189823"
+         height="67.692268"
+         x="-5.6911011"
+         y="132.07639" />
+      <path
+         id="path1087"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21731)"
+         d="m -279.29752,570.42988 c -1.66201,0 -2.99981,1.33833 -2.99981,3.00033 v 26.99991 h 9.52913 5.57951 6.06216 7.9375 7.89151 12.92272 4.07727 v -26.99991 c 0,-1.662 -1.3378,-3.00033 -2.99982,-3.00033 z m -2.99981,69.99987 v 7.00058 c 0,1.66204 1.3378,2.99982 2.99981,2.99982 h 14.91537 c -0.0245,0.15492 -0.0377,0.31398 -0.0377,0.47596 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99981,2.99982 h 12.24474 c 1.662,0 2.99981,-1.33781 2.99981,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47596 h 14.91536 c 1.66202,0 2.99982,-1.33778 2.99982,-2.99982 v -7.00058 h -12.53463 -10.35751 -9.53327 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1089"
+         style="fill:url(#radialGradient1279);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m 1.9468181,142.05386 c -0.7933984,0 -1.43202778,0.63889 -1.43202778,1.43228 v 12.88902 h 4.54894758 2.6635064 2.8939107 3.789146 3.767193 6.168955 1.946378 v -12.88902 c 0,-0.79339 -0.63863,-1.43228 -1.432033,-1.43228 z M 0.51479032,175.4699 v 3.34189 c 0,0.79341 0.63862938,1.43203 1.43202778,1.43203 h 7.120192 c -0.011696,0.0739 -0.017997,0.14988 -0.017997,0.22721 v 7.88813 c 0,0.7934 0.6386484,1.43203 1.4320279,1.43203 h 5.845306 c 0.793393,0 1.432028,-0.63863 1.432028,-1.43203 v -7.88813 c 0,-0.0773 -0.0061,-0.15326 -0.01776,-0.22721 h 7.120188 c 0.793403,0 1.432032,-0.63862 1.432032,-1.43203 V 175.4699 H 20.309144 15.36475 10.813826 Z" />
+    </g>
+    <g
+       id="g1385"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\four.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1093"
+         width="38.189823"
+         height="67.692268"
+         x="35.629765"
+         y="132.07639" />
+      <path
+         id="path1095"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21719)"
+         d="m -192.73863,570.42989 c -1.66201,0 -2.99982,1.33833 -2.99982,3.00033 v 46.99972 h 19.99982 v -2.99982 -7.65018 -6.35 c 0,-1.662 1.3378,-2.99982 2.99981,-2.99982 h 14.00018 12.92221 4.07779 v -26.9999 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z m -2.99982,69.99986 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.91537 c -0.0245,0.15488 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.662 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47593 h 14.91537 c 1.66201,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -12.53515 -10.35751 -9.53327 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1097"
+         style="fill:url(#radialGradient1277);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m 43.267679,142.05387 c -0.793399,0 -1.432033,0.63888 -1.432033,1.43228 v 22.43638 h 9.54737 v -1.43203 -3.65199 -3.03131 c 0,-0.7934 0.63863,-1.43204 1.432028,-1.43204 h 6.683305 6.168712 1.946626 v -12.88901 c 0,-0.7934 -0.638634,-1.43228 -1.432032,-1.43228 z m -1.432033,33.41603 v 3.3419 c 0,0.79339 0.638634,1.43203 1.432033,1.43203 h 7.120192 c -0.0117,0.0739 -0.018,0.14987 -0.018,0.2272 v 7.88813 c 0,0.79339 0.638648,1.43203 1.432032,1.43203 h 5.845301 c 0.793394,0 1.432033,-0.63864 1.432033,-1.43203 v -7.88813 c 0,-0.0773 -0.0061,-0.15326 -0.01776,-0.2272 h 7.120192 c 0.793398,0 1.432032,-0.63864 1.432032,-1.43203 v -3.3419 h -5.98394 -4.944393 -4.550924 z" />
+    </g>
+    <g
+       id="g1390"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\five.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1101"
+         width="38.189823"
+         height="67.692268"
+         x="76.950638"
+         y="132.07639" />
+      <path
+         id="path1103"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21707)"
+         d="m -106.17969,570.42988 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 46.99971 h 22.65185 9.533281 1.814856 v -2.99981 -14.00018 c 0,-1.66201 1.337813,-2.99982 2.99982,-2.99982 h 14.000188 2.99982 v -26.9999 c 0,-1.662 -1.337813,-3.00034 -2.99982,-3.00034 z m -2.99982,69.99987 v 7.00061 c 0,1.662 1.33781,2.99982 2.99982,2.99982 h 14.915379 c -0.0245,0.15488 -0.03773,0.31395 -0.03773,0.47593 v 16.52405 c 0,1.662 1.337839,2.99982 2.999819,2.99982 h 12.244731 c 1.661981,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.01273,-0.32105 -0.03723,-0.47593 h 14.915382 c 1.662007,0 2.99982,-1.33782 2.99982,-2.99982 v -7.00061 h -11.457199 -10.357485 -9.533281 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1105"
+         style="fill:url(#radialGradient1275);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m 84.588563,142.05386 c -0.793398,0 -1.432032,0.63889 -1.432032,1.43229 v 22.43638 h 10.813377 4.550929 0.866363 v -1.43203 -6.6833 c 0,-0.7934 0.63864,-1.43204 1.43203,-1.43204 h 6.68331 1.43203 v -12.88901 c 0,-0.7934 -0.63863,-1.43229 -1.43203,-1.43229 z m -1.432032,33.41604 v 3.3419 c 0,0.79339 0.638634,1.43203 1.432032,1.43203 h 7.120196 c -0.0117,0.0739 -0.01801,0.14987 -0.01801,0.2272 v 7.88813 c 0,0.79339 0.638648,1.43203 1.432032,1.43203 h 5.845302 c 0.793384,0 1.432027,-0.63864 1.432027,-1.43203 v -7.88813 c 0,-0.0773 -0.006,-0.15326 -0.0178,-0.2272 h 7.1202 c 0.7934,0 1.43203,-0.63864 1.43203,-1.43203 v -3.3419 h -5.46935 -4.944384 -4.550929 z" />
+    </g>
+    <g
+       id="g1395"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\six.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1109"
+         width="38.189823"
+         height="67.692268"
+         x="118.27151"
+         y="132.07639" />
+      <path
+         id="path1111"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21695)"
+         d="m -19.620802,570.42991 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 46.99971 h 21.0157699 9.1767101 9.97098 13.05552 c 0.26654,0 0.52599,0.0163 0.78084,0.0408 v -47.04054 c 0,-1.662 -1.33782,-3.00034 -2.99982,-3.00034 z m 51,69.95904 c -0.25485,0.0245 -0.5143,0.0408 -0.78084,0.0408 H 17.542838 7.571858 -1.6048521 -22.620622 v 7.00061 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.9153799 c -0.0245,0.15489 -0.0377,0.31396 -0.0377,0.47594 v 16.52405 c 0,1.662 1.33784,2.99982 2.99982,2.99982 H 10.501428 c 1.66201,0 2.99982,-1.33782 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32105 -0.0372,-0.47594 h 14.91536 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1113"
+         style="fill:url(#radialGradient1273);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m 125.90942,142.05388 c -0.7934,0 -1.43203,0.63889 -1.43203,1.43228 v 22.43638 h 10.03236 4.38071 4.75987 6.23235 c 0.12724,0 0.2511,0.008 0.37276,0.0195 v -22.45587 c 0,-0.7934 -0.63864,-1.43229 -1.43204,-1.43229 z m 24.34602,33.39654 c -0.12166,0.0117 -0.24552,0.0195 -0.37276,0.0195 h -6.23235 -4.75987 -4.38071 -10.03236 v 3.3419 c 0,0.7934 0.63863,1.43203 1.43203,1.43203 h 7.1202 c -0.0117,0.0739 -0.018,0.14988 -0.018,0.2272 v 7.88814 c 0,0.79339 0.63865,1.43203 1.43203,1.43203 h 5.84531 c 0.79339,0 1.43203,-0.63864 1.43203,-1.43203 v -7.88814 c 0,-0.0773 -0.006,-0.15326 -0.0178,-0.2272 h 7.12019 c 0.79339,0 1.43203,-0.63863 1.43203,-1.43203 z" />
+    </g>
+    <g
+       id="g1400"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\seven.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1117"
+         width="38.189823"
+         height="67.692268"
+         x="159.59238"
+         y="132.07639" />
+      <path
+         id="path1119"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21683)"
+         d="m 66.93812,570.42989 c -1.662006,0 -2.999819,1.33833 -2.999819,3.00033 v 74.00014 c 0,1.66201 1.337813,2.99982 2.999819,2.99982 h 14.915383 c -0.0245,0.15489 -0.03773,0.31395 -0.03773,0.47593 v 16.52405 c 0,1.66201 1.337839,2.99982 2.99982,2.99982 h 12.244731 c 1.66198,0 2.999816,-1.33781 2.999816,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91539 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -7.03315 c -0.13777,0.0192 -0.27742,0.0325 -0.42066,0.0325 h -7.9375 -6.06216 -5.579512 -14.000163 c -1.662006,0 -2.999819,-1.33781 -2.999819,-2.99982 v -14.00018 c 0,-1.662 1.337813,-2.99981 2.999819,-2.99981 h 14.000163 5.579512 6.06216 7.9375 c 0.14324,0 0.28289,0.0133 0.42066,0.0326 v -47.03227 c 0,-1.662 -1.33781,-3.00033 -2.99982,-3.00033 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1121"
+         style="fill:url(#radialGradient1271);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m 167.2303,142.05387 c -0.7934,0 -1.43203,0.63888 -1.43203,1.43228 v 35.32565 c 0,0.7934 0.63863,1.43203 1.43203,1.43203 h 7.1202 c -0.0117,0.0739 -0.018,0.14987 -0.018,0.2272 v 7.88813 c 0,0.7934 0.63864,1.43203 1.43203,1.43203 h 5.8453 c 0.79338,0 1.43203,-0.63863 1.43203,-1.43203 v -7.88813 c 0,-0.0773 -0.006,-0.15326 -0.0178,-0.2272 h 7.1202 c 0.7934,0 1.43204,-0.63863 1.43204,-1.43203 v -3.35743 c -0.0658,0.009 -0.13244,0.0155 -0.20082,0.0155 h -3.78914 -2.89391 -2.66351 -6.6833 c -0.79339,0 -1.43203,-0.63863 -1.43203,-1.43203 v -6.68331 c 0,-0.79339 0.63864,-1.43203 1.43203,-1.43203 h 6.6833 2.66351 2.89391 3.78914 c 0.0684,0 0.13505,0.006 0.20082,0.0156 v -22.45193 c 0,-0.79339 -0.63864,-1.43228 -1.43204,-1.43228 z" />
+    </g>
+    <g
+       id="g1405"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\eight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1125"
+         width="38.189823"
+         height="67.692268"
+         x="200.91324"
+         y="132.07639" />
+      <path
+         id="path1127"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21671)"
+         d="m 153.49703,570.42989 c -1.66203,0 -2.99982,1.33834 -2.99982,3.00033 v 74.00014 c 0,1.66201 1.33779,2.99982 2.99982,2.99982 h 14.91536 c -0.0245,0.15489 -0.0377,0.31395 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16198 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91535 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -7.00061 h -3.00032 -10.29549 -3.70417 c -1.66201,0 -3.00035,-1.33781 -3.00035,-2.99982 v -14.00018 c 0,-1.662 1.33834,-2.99981 3.00035,-2.99981 h 3.70417 10.29549 3.00032 v -46.99972 c 0,-1.66199 -1.33781,-3.00033 -2.99982,-3.00033 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1129"
+         style="fill:url(#radialGradient1269);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m 208.55117,142.05387 c -0.79341,0 -1.43203,0.63889 -1.43203,1.43228 v 35.32565 c 0,0.7934 0.63862,1.43203 1.43203,1.43203 h 7.12019 c -0.0117,0.0739 -0.018,0.14987 -0.018,0.2272 v 7.88813 c 0,0.7934 0.63865,1.43203 1.43203,1.43203 h 5.8453 c 0.7934,0 1.43204,-0.63863 1.43204,-1.43203 v -7.88813 c 0,-0.0773 -0.006,-0.15326 -0.0178,-0.2272 h 7.12018 c 0.7934,0 1.43203,-0.63863 1.43203,-1.43203 v -3.3419 h -1.43227 -4.91479 -1.76827 c -0.79339,0 -1.43228,-0.63863 -1.43228,-1.43203 v -6.68331 c 0,-0.79339 0.63889,-1.43203 1.43228,-1.43203 h 1.76827 4.91479 1.43227 v -22.43638 c 0,-0.79339 -0.63863,-1.43228 -1.43203,-1.43228 z" />
+    </g>
+    <g
+       id="g1410"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\nine.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1133"
+         width="38.189823"
+         height="67.692268"
+         x="242.23412"
+         y="132.07639" />
+      <path
+         id="path1135"
+         style="fill:#ffffff;stroke:none;stroke-width:1.18497;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21659)"
+         d="m 240.05593,570.42989 c -1.66201,0 -2.99982,1.33834 -2.99982,3.00034 v 74.00013 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 h 14.91536 c -0.0245,0.15489 -0.0377,0.31396 -0.0377,0.47593 v 16.52405 c 0,1.66201 1.33784,2.99982 2.99982,2.99982 h 12.24473 c 1.662,0 2.99982,-1.33781 2.99982,-2.99982 v -16.52405 c 0,-0.16197 -0.0127,-0.32104 -0.0372,-0.47593 h 14.91535 c 1.66201,0 2.99982,-1.33781 2.99982,-2.99982 v -74.00013 c 0,-1.662 -1.33781,-3.00034 -2.99982,-3.00034 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1137"
+         style="fill:url(#radialGradient1267);fill-opacity:1;stroke:none;stroke-width:0.565672;stroke-linecap:round;stroke-linejoin:round"
+         d="m 249.87203,142.05387 c -0.79339,0 -1.43203,0.63889 -1.43203,1.43228 v 35.32565 c 0,0.7934 0.63864,1.43203 1.43203,1.43203 h 7.12019 c -0.0117,0.0739 -0.018,0.14988 -0.018,0.2272 v 7.88813 c 0,0.7934 0.63865,1.43203 1.43204,1.43203 h 5.8453 c 0.79339,0 1.43203,-0.63863 1.43203,-1.43203 v -7.88813 c 0,-0.0773 -0.006,-0.15326 -0.0178,-0.2272 h 7.12018 c 0.7934,0 1.43204,-0.63863 1.43204,-1.43203 v -35.32565 c 0,-0.79339 -0.63864,-1.43228 -1.43204,-1.43228 z" />
+    </g>
+    <g
+       id="g1419"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\colon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1141"
+         width="38.189823"
+         height="67.692268"
+         x="283.55499"
+         y="132.07639" />
+      <g
+         id="g1147"
+         style="fill:#ffffff;filter:url(#filter21647)"
+         transform="matrix(0.47737281,0,0,0.47737281,134.46375,-129.84871)">
+        <rect
+           style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2.37925;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1143"
+           width="20"
+           height="20"
+           x="342.31613"
+           y="584.58124"
+           rx="3.0000045"
+           ry="3.0000045" />
+        <rect
+           style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2.37925;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1145"
+           width="20"
+           height="20"
+           x="342.31613"
+           y="634.58124"
+           rx="3.0000045"
+           ry="3.0000045" />
+      </g>
+      <g
+         id="g1153"
+         style="fill:url(#radialGradient1265);fill-opacity:1"
+         transform="matrix(0.47737281,0,0,0.47737281,134.46375,-129.84871)">
+        <rect
+           style="opacity:1;fill:url(#radialGradient1261);fill-opacity:1;stroke:none;stroke-width:2.37925;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1149"
+           width="20"
+           height="20"
+           x="342.31613"
+           y="584.58124"
+           rx="3.0000045"
+           ry="3.0000045" />
+        <rect
+           style="opacity:1;fill:url(#radialGradient1263);fill-opacity:1;stroke:none;stroke-width:2.37925;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1151"
+           width="20"
+           height="20"
+           x="342.31613"
+           y="634.58124"
+           rx="3.0000045"
+           ry="3.0000045" />
+      </g>
+    </g>
+    <g
+       id="g1475"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\brightness.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1157"
+         width="38.189823"
+         height="67.692268"
+         x="572.80127"
+         y="132.07639" />
+      <path
+         id="path1159"
+         style="fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter28899)"
+         d="m 845.96894,570.42988 c -1.66201,0 -3.00035,1.33782 -3.00035,2.99982 v 22.00021 h 15.00013 c 1.66201,0 2.99982,1.33781 2.99982,2.99981 v 13.75834 5.24154 3.00033 h 15.0001 c 1.66201,0 3.00035,1.33781 3.00035,2.99982 v 18.99986 c 0,1.66201 -1.33834,3.00035 -3.00035,3.00035 h -33.00005 v 21.99968 c 0,1.66201 1.33834,3.00035 3.00035,3.00035 h 47.99965 c 1.662,0 3.00032,-1.33834 3.00032,-3.00035 V 573.4297 c 0,-1.662 -1.33832,-2.99982 -3.00032,-2.99982 z"
+         transform="matrix(0.47737281,0,0,0.47737281,176.59673,-130.25385)" />
+      <path
+         id="path1161"
+         style="fill:url(#radialGradient1259);fill-opacity:1;stroke:none;stroke-width:4.17315;stroke-linecap:round;stroke-linejoin:round"
+         d="m 580.4393,142.05386 c -0.7934,0 -1.43229,0.63864 -1.43229,1.43204 v 10.5023 h 7.16066 c 0.7934,0 1.43203,0.63863 1.43203,1.43203 v 6.56785 2.50217 1.43228 h 7.16064 c 0.7934,0 1.43229,0.63863 1.43229,1.43203 v 9.07002 c 0,0.7934 -0.63889,1.43228 -1.43229,1.43228 h -15.75333 v 10.50205 c 0,0.7934 0.63889,1.43229 1.43229,1.43229 h 22.91373 c 0.79339,0 1.43227,-0.63889 1.43227,-1.43229 V 143.4859 c 0,-0.7934 -0.63888,-1.43204 -1.43227,-1.43204 z" />
+    </g>
+    <g
+       id="g1433"
+       clip-path="url(#clipPath1481)"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\am.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.62711;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1165"
+         width="38.189823"
+         height="67.692268"
+         x="366.19684"
+         y="132.07639" />
+      <path
+         id="path1167"
+         style="fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter31994)"
+         d="m 499.73299,570.42988 c -1.66201,0 -2.99982,1.33781 -2.99982,2.99981 v 22.00021 h 33.00005 c 1.662,0 2.99982,1.33782 2.99982,2.99982 v 18.99987 c 0,1.662 -1.33782,3.00033 -2.99982,3.00033 h -33.00005 v 25.5292 h 33.00005 c 1.662,0 2.99982,1.33781 2.99982,2.99982 v 18.99986 c 0,1.02857 -0.51414,1.93104 -1.29863,2.47118 h 16.29876 c 1.66198,0 2.99979,-1.33834 2.99979,-3.00035 v -93.99994 c 0,-1.662 -1.33781,-2.99981 -2.99979,-2.99981 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27584,-130.25385)" />
+      <path
+         id="path1169"
+         style="fill:url(#radialGradient1257);fill-opacity:1;stroke:none;stroke-width:4.17315;stroke-linecap:round;stroke-linejoin:round"
+         d="m 373.83478,142.05386 c -0.7934,0 -1.43203,0.63864 -1.43203,1.43203 v 10.5023 h 15.75333 c 0.79339,0 1.43203,0.63864 1.43203,1.43204 v 9.07002 c 0,0.79339 -0.63864,1.43227 -1.43203,1.43227 h -15.75333 v 12.18695 h 15.75333 c 0.79339,0 1.43203,0.63863 1.43203,1.43203 v 9.07002 c 0,0.49101 -0.24544,0.92183 -0.61993,1.17967 h 7.78058 c 0.79339,0 1.43202,-0.63888 1.43202,-1.43228 v -44.87302 c 0,-0.79339 -0.63863,-1.43203 -1.43202,-1.43203 z" />
+    </g>
+    <g
+       id="g1438"
+       clip-path="url(#clipPath1485)"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\pm.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.62711;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1173"
+         width="38.189823"
+         height="67.692268"
+         x="407.51776"
+         y="132.07639" />
+      <path
+         id="path1175"
+         style="fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter34079)"
+         d="m 586.29214,570.42988 c -1.662,0 -3.0003,1.33782 -3.0003,2.99982 v 93.99994 c 0,1.662 1.3383,3.00035 3.0003,3.00035 h 14.9996 V 570.42988 Z m 33.0001,0 v 28.56053 h 7.5913 1.7585 5.6498 3.0003 V 573.4297 c 0,-1.662 -1.3383,-2.99982 -3.0003,-2.99982 z m 0,71.43905 v 28.56106 h 14.9996 c 1.662,0 3.0003,-1.33835 3.0003,-3.00035 v -25.56071 h -3.0003 -5.6498 -1.7585 z"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1177"
+         style="fill:url(#radialGradient1255);fill-opacity:1;stroke:none;stroke-width:4.17315;stroke-linecap:round;stroke-linejoin:round"
+         d="m 415.15579,142.05386 c -0.7934,0 -1.43227,0.63864 -1.43227,1.43204 v 44.87301 c 0,0.7934 0.63887,1.43229 1.43227,1.43229 h 7.1604 v -47.73734 z m 15.75335,0 v 13.63403 h 3.62388 0.83946 2.69706 1.43226 V 143.4859 c 0,-0.7934 -0.63887,-1.43204 -1.43226,-1.43204 z m 0,34.10306 v 13.63428 h 7.1604 c 0.79339,0 1.43226,-0.63889 1.43226,-1.43229 v -12.20199 h -1.43226 -2.69706 -0.83946 z" />
+    </g>
+    <g
+       id="g1470"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\percent.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;stroke-width:0.34902;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1181"
+         width="38.189823"
+         height="67.692268"
+         x="531.48035"
+         y="132.07639" />
+      <path
+         id="path1183"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.50635;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter36734)"
+         d="m 428.17405,570.43014 v 21.99969 c 0,1.662 -1.33781,3.00033 -2.99982,3.00033 H 410.1741 v 25.00002 h 15.00013 c 1.66201,0 2.99982,1.33783 2.99982,2.99981 v 18.99989 c 0,1.66201 -1.33781,2.99982 -2.99982,2.99982 H 410.1741 v 22.00021 c 0,1.66198 1.33781,2.99982 2.99982,2.99982 h 33.00005 v -21.99971 c 0,-1.662 1.33781,-3.00032 2.99982,-3.00032 h 15.00013 v -24.99952 h -15.00013 c -1.66201,0 -2.99982,-1.33833 -2.99982,-3.00033 v -18.99987 c 0,-1.662 1.33781,-2.99982 2.99982,-2.99982 h 15.00013 v -22.00021 c 0,-1.662 -1.33781,-2.99981 -2.99982,-2.99981 z"
+         transform="matrix(0.47737281,0,0,0.47737281,341.88028,-130.25385)" />
+      <path
+         id="path1185"
+         style="fill:url(#radialGradient1253);fill-opacity:1;stroke:none;stroke-width:0.719091;stroke-linecap:round;stroke-linejoin:round"
+         d="m 546.27893,142.05399 v 10.50205 c 0,0.7934 -0.63863,1.43228 -1.43203,1.43228 h -7.16066 v 11.93433 h 7.16066 c 0.7934,0 1.43203,0.63864 1.43203,1.43203 v 9.07003 c 0,0.7934 -0.63863,1.43203 -1.43203,1.43203 h -7.16066 v 10.5023 c 0,0.79339 0.63864,1.43203 1.43204,1.43203 h 15.75332 v -10.50206 c 0,-0.79339 0.63864,-1.43227 1.43203,-1.43227 h 7.16066 v -11.93409 h -7.16066 c -0.79339,0 -1.43203,-0.63888 -1.43203,-1.43228 v -9.07002 c 0,-0.79339 0.63864,-1.43203 1.43203,-1.43203 h 7.16066 v -10.5023 c 0,-0.7934 -0.63864,-1.43203 -1.43203,-1.43203 z" />
+    </g>
+    <g
+       id="g1443"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\degrees.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.62711;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1189"
+         width="38.189823"
+         height="67.692268"
+         x="-487.02844"
+         y="132.07639"
+         transform="scale(-1,1)" />
+      <path
+         id="path1191"
+         style="fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter34079)"
+         d="m 705.85114,570.42988 v 28.56053 h 7.5913 1.7585 5.6498 3.0003 V 573.4297 c 0,-1.662 -1.3383,-2.99982 -3.0003,-2.99982 z"
+         sodipodi:nodetypes="ccccccssc"
+         transform="matrix(-0.47737281,0,0,0.47737281,800.5912,-130.25385)" />
+      <path
+         id="path1193"
+         style="fill:url(#radialGradient1251);fill-opacity:1;stroke:none;stroke-width:4.17315;stroke-linecap:round;stroke-linejoin:round"
+         d="m 463.63706,142.05386 v 13.63403 h -3.62388 -0.83946 -2.69706 -1.43226 V 143.4859 c 0,-0.7934 0.63886,-1.43204 1.43226,-1.43204 z"
+         sodipodi:nodetypes="ccccccssc" />
+    </g>
+    <g
+       id="g1465"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\alarm.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g1231"
+         inkscape:export-filename="C:\Users\Josue\Dropbox\ClocksDesigns\Clock Faces\Clock Stargate\space.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         transform="matrix(0.47737281,0,0,0.42307669,222.95925,-88.713554)">
+        <rect
+           style="fill:#000000;stroke-width:0.776628;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1197"
+           width="80"
+           height="160"
+           x="559.73065"
+           y="521.86743" />
+        <path
+           id="path1199"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 597.75996,605.67804 c 1.55292,-5.23245 2.71639,-2.78845 3.94137,0 v 22.23813 c -1.28988,4.11123 -2.33648,4.36802 -3.94137,0 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1201"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 597.75996,639.98186 c 1.55292,-5.23245 2.71639,-2.78846 3.94137,0 v 22.23813 c -1.28988,4.11122 -2.33648,4.36802 -3.94137,0 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1203"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 626.90592,658.54976 c 3.80948,6.00563 0.69454,4.53609 -2.78697,2.78697 L 603.26162,640.4794 c -2.94387,-4.76804 -2.44466,-5.74895 2.78697,-2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1205"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 596.29883,627.94266 c 3.80947,6.00564 0.69453,4.5361 -2.78697,2.78697 L 572.65453,609.8723 c -2.94387,-4.76803 -2.44466,-5.74894 2.78697,-2.78696 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1207"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 575.34481,661.29236 c -6.00563,3.80948 -4.53609,0.69454 -2.78697,-2.78697 l 20.85733,-20.85733 c 4.76804,-2.94387 5.74895,-2.44466 2.78697,2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1209"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 605.95191,630.68527 c -6.00564,3.80947 -4.5361,0.69453 -2.78697,-2.78697 l 20.85733,-20.85733 c 4.76803,-2.94387 5.74894,-2.44466 2.78696,2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1211"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 628.05449,632.0312 c 5.23245,1.55292 2.78845,2.71639 0,3.94137 h -22.23813 c -4.11123,-1.28988 -4.36802,-2.33648 0,-3.94137 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1213"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 593.75067,632.0312 c 5.23245,1.55292 2.78846,2.71639 0,3.94137 h -22.23813 c -4.11122,-1.28988 -4.36802,-2.33648 0,-3.94137 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1215"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 597.75996,541.40914 c 1.55292,-5.23245 2.71639,-2.78845 3.94137,0 v 22.23813 c -1.28988,4.11123 -2.33648,4.36802 -3.94137,0 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1217"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 597.75996,575.71296 c 1.55292,-5.23245 2.71639,-2.78846 3.94137,0 v 22.23813 c -1.28988,4.11122 -2.33648,4.36802 -3.94137,0 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1219"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 626.90592,594.28086 c 3.80948,6.00563 0.69454,4.53609 -2.78697,2.78697 L 603.26162,576.2105 c -2.94387,-4.76804 -2.44466,-5.74895 2.78697,-2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1221"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 596.29883,563.67376 c 3.80947,6.00564 0.69453,4.5361 -2.78697,2.78697 L 572.65453,545.6034 c -2.94387,-4.76803 -2.44466,-5.74894 2.78697,-2.78696 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1223"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 575.34481,597.02346 c -6.00563,3.80948 -4.53609,0.69454 -2.78697,-2.78697 l 20.85733,-20.85733 c 4.76804,-2.94387 5.74895,-2.44466 2.78697,2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1225"
+           style="opacity:0.12;fill:#800000;stroke-width:0.592379;stroke-linecap:round;stroke-linejoin:round"
+           d="m 605.95191,566.41637 c -6.00564,3.80947 -4.5361,0.69453 -2.78697,-2.78697 l 20.85733,-20.85733 c 4.76803,-2.94387 5.74894,-2.44466 2.78696,2.78697 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1227"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 628.05449,567.7623 c 5.23245,1.55292 2.78845,2.71639 0,3.94137 h -22.23813 c -4.11123,-1.28988 -4.36802,-2.33648 0,-3.94137 z"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1229"
+           style="opacity:0.12;fill:#800000;stroke-width:0.514354;stroke-linecap:round;stroke-linejoin:round"
+           d="m 593.75067,567.7623 c 5.23245,1.55292 2.78846,2.71639 0,3.94137 h -22.23813 c -4.11122,-1.28988 -4.36802,-2.33648 0,-3.94137 z"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         id="path1233"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.63401;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter1854)"
+         d="m 1249.3384,564.62565 c -1.662,0 -3.0004,1.33833 -3.0004,3.00028 v 37.99945 h 17.9999 v -27.99959 c 0,-1.66201 1.3382,-3.00034 3.0001,-3.00034 h 11.9998 c 1.662,0 3.0003,1.33833 3.0003,3.00034 v 27.99959 h 17.9999 v -37.99945 c 0,-1.66195 -1.3384,-3.00028 -3.0004,-3.00028 z m -3.0004,58.99952 v 37.99996 c 0,1.66198 1.3384,2.99977 3.0004,2.99977 h 47.9992 c 1.662,0 3.0004,-1.33779 3.0004,-2.99977 v -37.99996 h -17.9999 v 28.00013 c 0,1.66199 -1.3383,2.9998 -3.0003,2.9998 h -11.9998 c -1.6619,0 -3.0001,-1.33781 -3.0001,-2.9998 v -28.00013 z"
+         transform="matrix(0.47737281,0,0,0.47737281,-98.602569,-127.48287)" />
+      <path
+         id="path1235"
+         style="fill:url(#radialGradient1249);fill-opacity:1;stroke:none;stroke-width:3.1669;stroke-linecap:round;stroke-linejoin:round"
+         d="m 497.79761,142.05406 c -0.79339,0 -1.43231,0.63889 -1.43231,1.43226 v 18.1399 h 8.59267 v -13.36624 c 0,-0.7934 0.63882,-1.43228 1.43216,-1.43228 h 5.72838 c 0.7934,0 1.43226,0.63888 1.43226,1.43228 v 13.36624 h 8.59267 v -18.1399 c 0,-0.79337 -0.63892,-1.43226 -1.43231,-1.43226 z m -1.43231,28.16477 v 18.14015 c 0,0.79338 0.63892,1.43201 1.43231,1.43201 h 22.91352 c 0.79339,0 1.43231,-0.63863 1.43231,-1.43201 v -18.14015 h -8.59267 v 13.3665 c 0,0.79339 -0.63886,1.43202 -1.43226,1.43202 h -5.72838 c -0.79334,0 -1.43216,-0.63863 -1.43216,-1.43202 v -13.3665 z" />
+    </g>
+    <g
+       id="g1424"
+       inkscape:export-filename="C:\Users\Josue\Desktop\StargateBig\dash.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.62711;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1239"
+         width="38.189823"
+         height="67.692268"
+         x="324.87592"
+         y="132.07639" />
+      <path
+         id="path1241"
+         style="fill:#ffffff;stroke:none;stroke-width:8.74191;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter31994)"
+         d="m 413.1739,606.43001 c -1.66201,0 -2.99982,1.33781 -2.99982,2.99981 v 22.00021 h 33.00005 c 1.662,0 2.99982,1.33782 2.99982,2.99982 l 17.99992,-25.00003 c 0,-1.662 -1.33781,-2.99981 -2.99979,-2.99981 z"
+         sodipodi:nodetypes="sscsssss"
+         transform="matrix(0.47737281,0,0,0.47737281,135.27586,-130.25385)" />
+      <path
+         id="path1243"
+         style="fill:url(#radialGradient1247);fill-opacity:1;stroke:none;stroke-width:4.17315;stroke-linecap:round;stroke-linejoin:round"
+         d="m 332.51385,159.23935 c -0.7934,0 -1.43203,0.63863 -1.43203,1.43203 v 10.5023 h 15.75332 c 0.7934,0 1.43204,0.63864 1.43204,1.43203 l 8.59267,-11.93433 c 0,-0.7934 -0.63863,-1.43203 -1.43202,-1.43203 z"
+         sodipodi:nodetypes="sscsssss" />
+    </g>
+  </g>
+</svg>
