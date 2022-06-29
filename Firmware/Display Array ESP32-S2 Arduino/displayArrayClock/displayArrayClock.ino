@@ -7,7 +7,6 @@
 #include "clockPixie.h"
 #include "clockFlags.h"
 
-
 const char *ssid     = "WifiSSID";
 const char *password = "WifiPassword";
 
