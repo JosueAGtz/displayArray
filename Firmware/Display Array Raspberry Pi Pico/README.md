@@ -63,7 +63,7 @@ typedef struct alarm_pool_entry {
 } alarm_pool_entry_t;
 ```
 
-## Upload yor UF2 to your Pico
+## Upload your UF2 to your Pico
 
 To upload your code to your pico you just need to connect your pico USB to your computer while holding down the BOOTSEL button on your Pico, this will tell your pico to be mounted as an external drive on your computer where you can just copy paste your UF2 file.
 
