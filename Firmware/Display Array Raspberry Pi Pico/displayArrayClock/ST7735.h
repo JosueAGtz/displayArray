@@ -39,13 +39,13 @@
 #define PIN_DC      19
 #define PIN_SDI     18
 #define PIN_SCK     17
-#define PIN_CS      16
-#define PIN_CS1      16
-#define PIN_CS2      15
-#define PIN_CS3      14
-#define PIN_CS4      13
-#define PIN_CS5      12
-#define PIN_CS6      11
+#define PIN_CS      15
+#define PIN_CS1      15
+#define PIN_CS2      14
+#define PIN_CS3      13
+#define PIN_CS4      12
+#define PIN_CS5      11
+#define PIN_CS6      10
 
 #define SCREEN_WIDTH    80
 #define SCREEN_HEIGHT   160
